@@ -1,0 +1,4345 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12449,31.36733 ]
+    },
+    "properties": {
+    "hebrew":"חוות טליה",
+    "year":1997,
+    "name":"בצלאל טליה",
+    "ID_1":307834150,
+    "english":"Talia Farm",
+    "X":211850,
+    "Y":586170,
+    "type":1,
+    "status":"",
+    "arabic":"حفات طاليا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.96911,31.37101 ]
+    },
+    "properties": {
+    "hebrew":"חוות מור",
+    "year":1999,
+    "name":"שלמה מור",
+    "ID_1":0,
+    "english":"Mor Farm",
+    "X":197068,
+    "Y":586598,
+    "type":0,
+    "status":"",
+    "arabic":"حفات مور",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.96767,31.36861 ]
+    },
+    "properties": {
+    "hebrew":"החווה של שבתאי",
+    "year":2017,
+    "name":"שבתאי קושלבסקי",
+    "ID_1":0,
+    "english":"Shabtai's Farm",
+    "X":196931,
+    "Y":586333,
+    "type":1,
+    "status":"",
+    "arabic":"هحفاه شِل شبتاي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.97398,31.49194 ]
+    },
+    "properties": {
+    "hebrew":"חוות ניסים  (משפחת ניסים)",
+    "year":2018,
+    "name":"חגי ניסים",
+    "ID_1":0,
+    "english":"Nissim Farm (Nissim family)",
+    "X":197560,
+    "Y":600005,
+    "type":1,
+    "status":"",
+    "arabic":"حفات نيسيم (عائلة نيسيم)",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10732,31.39111 ]
+    },
+    "properties": {
+    "hebrew":"חוות הר סיני",
+    "year":1997,
+    "name":"יעקב שכטר",
+    "ID_1":0,
+    "english":"Har Sinai Farm",
+    "X":210219,
+    "Y":588807,
+    "type":1,
+    "status":"",
+    "arabic":"حفات هار سيناي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.15999,31.40913 ]
+    },
+    "properties": {
+    "hebrew":"חוות מעון",
+    "year":2002,
+    "name":"יהושפט תור",
+    "ID_1":0,
+    "english":"Havat Maon (Maon Farm)",
+    "X":215229,
+    "Y":590802,
+    "type":1,
+    "status":"",
+    "arabic":"حفات معون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16502,31.47931 ]
+    },
+    "properties": {
+    "hebrew":"חוות מדבר חבר",
+    "year":2017,
+    "name":"נתן ברוך",
+    "ID_1":305414179,
+    "english":"Midbar Hever Farm",
+    "X":215711,
+    "Y":598583,
+    "type":1,
+    "status":"",
+    "arabic":"حفات مدبار حيفر",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.19928,31.58583 ]
+    },
+    "properties": {
+    "hebrew":"חוות פני קדם",
+    "year":2018,
+    "name":"גבריאל רייס",
+    "ID_1":0,
+    "english":"Pnei Kedem Farm",
+    "X":218967,
+    "Y":610393,
+    "type":1,
+    "status":"",
+    "arabic":"حفات بني كيدم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.21648,31.59899 ]
+    },
+    "properties": {
+    "hebrew":"חוות ערוגות/צורי יעלים",
+    "year":2014,
+    "name":"יוסי לויט",
+    "ID_1":0,
+    "english":"Arugot/Tzurei Ye'elim Farm",
+    "X":220598,
+    "Y":611853,
+    "type":2,
+    "status":"",
+    "arabic":"حفات عروجوت/تسوري",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24392,31.65966 ]
+    },
+    "properties": {
+    "hebrew":"שדה בר",
+    "year":2004,
+    "name":"",
+    "ID_1":0,
+    "english":"Sde Bar",
+    "X":223201,
+    "Y":618580,
+    "type":1,
+    "status":"נמצא בהליך הכשרה משנת 2014",
+    "arabic":"سْديه بار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10157,31.67612 ]
+    },
+    "properties": {
+    "hebrew":"חוות קשואלה",
+    "year":2012,
+    "name":"יאיר בן דוד",
+    "ID_1":0,
+    "english":"Kashuela Farm",
+    "X":209702,
+    "Y":620409,
+    "type":1,
+    "status":"",
+    "arabic":"حفات كاشويلا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.32254,31.81207 ]
+    },
+    "properties": {
+    "hebrew":"הרועה העברי",
+    "year":2014,
+    "name":"הרועה העברי",
+    "ID_1":0,
+    "english":"Haroe Haivri",
+    "X":230639,
+    "Y":635485,
+    "type":1,
+    "status":"",
+    "arabic":"هروعيه هعبري",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.42978,31.92987 ]
+    },
+    "properties": {
+    "hebrew":"חוות עומר",
+    "year":2004,
+    "name":"עומר עתידיה",
+    "ID_1":0,
+    "english":"Omer Farm",
+    "X":240766,
+    "Y":648564,
+    "type":1,
+    "status":"",
+    "arabic":"حفات عومِر",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34409,31.94956 ]
+    },
+    "properties": {
+    "hebrew":"מעלה שלמה",
+    "year":2015,
+    "name":"?",
+    "ID_1":0,
+    "english":"Ma'ale Shlomo",
+    "X":232660,
+    "Y":650734,
+    "type":1,
+    "status":"",
+    "arabic":"معليه شلومو",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.36344,32.02478 ]
+    },
+    "properties": {
+    "hebrew":"חוות מלאכי השלום",
+    "year":2015,
+    "name":"אליאב ליבי אביתר קארו",
+    "ID_1":36983393,
+    "english":"Malachei Hashalom Farm",
+    "X":234477,
+    "Y":659078,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ملأخي هشلوم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35439,32.16264 ]
+    },
+    "properties": {
+    "hebrew":"אברי רן גבעות עולם",
+    "year":1999,
+    "name":"אברי רן",
+    "ID_1":0,
+    "english":"Avri Ran - Gvaot Olam",
+    "X":233600,
+    "Y":674363,
+    "type":1,
+    "status":"",
+    "arabic":"أفري ران جفعوت عولام",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.37783,32.14248 ]
+    },
+    "properties": {
+    "hebrew":"חוות איתמר כהן",
+    "year":2013,
+    "name":"איתמר כהן",
+    "ID_1":0,
+    "english":"Itamar Cohen Farm",
+    "X":235815,
+    "Y":672131,
+    "type":1,
+    "status":"",
+    "arabic":"حفات إيتمار كوهين",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.36999,32.21364 ]
+    },
+    "properties": {
+    "hebrew":"חוות סקאלי",
+    "year":1999,
+    "name":"יצחק סקלי",
+    "ID_1":0,
+    "english":"Skali Farm",
+    "X":235064,
+    "Y":680021,
+    "type":1,
+    "status":"",
+    "arabic":"حفات سكالي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33904,32.22762 ]
+    },
+    "properties": {
+    "hebrew":"חוות השקדים",
+    "year":2014,
+    "name":"נתי שולב",
+    "ID_1":0,
+    "english":"Hashkedim Farm",
+    "X":232143,
+    "Y":681567,
+    "type":1,
+    "status":"",
+    "arabic":"حفات هشكيديم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.50435,32.36474 ]
+    },
+    "properties": {
+    "hebrew":"חוות שירת העשבים",
+    "year":2017,
+    "name":"צוריאל לילינטל",
+    "ID_1":0,
+    "english":"Shirat Ha'asavim Farm",
+    "X":247683,
+    "Y":696805,
+    "type":1,
+    "status":"",
+    "arabic":"حفات شيرات هعسبيم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.50858,32.31816 ]
+    },
+    "properties": {
+    "hebrew":"חוות משכיות",
+    "year":2016,
+    "name":"",
+    "ID_1":311593578,
+    "english":"Maskiyot Farm",
+    "X":248097,
+    "Y":691640,
+    "type":2,
+    "status":"",
+    "arabic":"حفات مسكيوت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.51927,32.28959 ]
+    },
+    "properties": {
+    "hebrew":"חוות נוף גלעד",
+    "year":2018,
+    "name":"אורי כהן",
+    "ID_1":0,
+    "english":"Nof Gilad Farm",
+    "X":249112,
+    "Y":688474,
+    "type":1,
+    "status":"",
+    "arabic":"حفات نوف جلعاد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.52947,32.25474 ]
+    },
+    "properties": {
+    "hebrew":"חוות גושן",
+    "year":2019,
+    "name":"מנחם גושן",
+    "ID_1":205418502,
+    "english":"Goshen Farm",
+    "X":250084,
+    "Y":684613,
+    "type":1,
+    "status":"",
+    "arabic":"حفات جوشن",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16565,32.42422 ]
+    },
+    "properties": {
+    "hebrew":"חוות מצפה דותן",
+    "year":2009,
+    "name":"אברהם קלנר",
+    "ID_1":0,
+    "english":"Mitzpe Dotan Farm",
+    "X":215808,
+    "Y":703362,
+    "type":1,
+    "status":"",
+    "arabic":"حفات متسبيه دوتان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13835,31.97218 ]
+    },
+    "properties": {
+    "hebrew":"חוות ארץ הצבי (צבי לקס)",
+    "year":2004,
+    "name":"צבי לקס",
+    "ID_1":0,
+    "english":"Eretz Hatzvi Farm (Tzvi Lax)",
+    "X":213209,
+    "Y":653236,
+    "type":1,
+    "status":"",
+    "arabic":"حفات إيرتس هتسفي (تسفي لاكس)",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.03748,31.37432 ]
+    },
+    "properties": {
+    "hebrew":"חוות מקנה יהודה",
+    "year":2019,
+    "name":"ישראל קפלן",
+    "ID_1":0,
+    "english":"Mikne Yehuda Farm",
+    "X":203573,
+    "Y":586954,
+    "type":1,
+    "status":"",
+    "arabic":"حفات مِكنِه يهودا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1821,32.19081 ]
+    },
+    "properties": {
+    "hebrew":"חוות יתדות",
+    "year":2018,
+    "name":"הראל ליבי?",
+    "ID_1":304935919,
+    "english":"Yetedot Farm",
+    "X":217349,
+    "Y":677478,
+    "type":1,
+    "status":"",
+    "arabic":"حفات يتدوت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.00389,31.38534 ]
+    },
+    "properties": {
+    "hebrew":"חוות יהודה",
+    "year":2019,
+    "name":"אלישיב נחום",
+    "ID_1":204618318,
+    "english":"Yehuda Farm",
+    "X":200380,
+    "Y":588181,
+    "type":1,
+    "status":"",
+    "arabic":"حفات يهودا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.38739,31.82476 ]
+    },
+    "properties": {
+    "hebrew":"חוות לכתחילה",
+    "year":2019,
+    "name":"יחזקאל פרידמן",
+    "ID_1":0,
+    "english":"Lechathila Farm",
+    "X":236777,
+    "Y":636901,
+    "type":1,
+    "status":"",
+    "arabic":"حفات نختحيله",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12323,31.39067 ]
+    },
+    "properties": {
+    "hebrew":"סוסיא",
+    "year":2019,
+    "name":"הילדים של דויטש?",
+    "ID_1":0,
+    "english":"Susiya",
+    "X":211732,
+    "Y":588757,
+    "type":0,
+    "status":"",
+    "arabic":"سوسيا ",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.04061,31.96062 ]
+    },
+    "properties": {
+    "hebrew":"חוות מגנזי",
+    "year":2019,
+    "name":"יוסף חיים מגנזי",
+    "ID_1":311363162,
+    "english":"Magnezi Farm",
+    "X":203969,
+    "Y":651963,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ماغانزي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34643,32.05234 ]
+    },
+    "properties": {
+    "hebrew":"חוות כחלית",
+    "year":2018,
+    "name":"חוות כחלית",
+    "ID_1":36870772,
+    "english":"Kahlit Farm",
+    "X":232866,
+    "Y":662131,
+    "type":1,
+    "status":"",
+    "arabic":"حفات كحليت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16466,31.71192 ]
+    },
+    "properties": {
+    "hebrew":"חוות נווה אורי",
+    "year":2019,
+    "name":"ליאור טל",
+    "ID_1":0,
+    "english":"Neve Uri Farm",
+    "X":215686,
+    "Y":624375,
+    "type":1,
+    "status":"",
+    "arabic":"حفات نفيه أوري",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09248,31.94033 ]
+    },
+    "properties": {
+    "hebrew":"חוות שדה אפרים",
+    "year":2018,
+    "name":"איתן זאב",
+    "ID_1":308414648,
+    "english":"Sde Efrayim Farm",
+    "X":208870,
+    "Y":649707,
+    "type":1,
+    "status":"",
+    "arabic":"حفات سْديه إفرايم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.11273,32.43764 ]
+    },
+    "properties": {
+    "hebrew":"חוות אל נווה",
+    "year":2019,
+    "name":"נדב שוורץ",
+    "ID_1":0,
+    "english":"El Nave Farm",
+    "X":210832,
+    "Y":704853,
+    "type":1,
+    "status":"",
+    "arabic":"حفات إيل نافيه",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.36783,32.15112 ]
+    },
+    "properties": {
+    "hebrew":"גדעונים 777",
+    "year":2012,
+    "name":"תומר פניני",
+    "ID_1":0,
+    "english":"Gidonim 777",
+    "X":234870,
+    "Y":673088,
+    "type":2,
+    "status":"",
+    "arabic":"جدعونيم 777",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34107,32.04581 ]
+    },
+    "properties": {
+    "hebrew":"יישוב הדעת",
+    "year":2018,
+    "name":"נחום שוורץ",
+    "ID_1":0,
+    "english":"Yeshuv Hada'at",
+    "X":232360,
+    "Y":661407,
+    "type":1,
+    "status":"",
+    "arabic":"ييشوف هداعَت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.06797,32.29229 ]
+    },
+    "properties": {
+    "hebrew":"חוות מגד הארץ",
+    "year":2019,
+    "name":"אהרון גיאן",
+    "ID_1":38947214,
+    "english":"Meged Ha'aretz Farm",
+    "X":206601,
+    "Y":688739,
+    "type":2,
+    "status":"",
+    "arabic":"حفات ميجد هآرتس",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.51538,32.33633 ]
+    },
+    "properties": {
+    "hebrew":"חוות טנא ירוק",
+    "year":2012,
+    "name":"דידי עמוסי",
+    "ID_1":0,
+    "english":"Tene Yarok Farm",
+    "X":248730,
+    "Y":693657,
+    "type":1,
+    "status":"",
+    "arabic":"حفات تِنِه يَروك",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23756,32.11738 ]
+    },
+    "properties": {
+    "hebrew":"תפוח מערב",
+    "year":0,
+    "name":"שמואל הרצליך",
+    "ID_1":13463021,
+    "english":"Tapuah West",
+    "X":222582,
+    "Y":669335,
+    "type":1,
+    "status":"",
+    "arabic":"تبوح غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31963,31.73628 ]
+    },
+    "properties": {
+    "hebrew":"מצפה יהודה/צאן קדר",
+    "year":2019,
+    "name":"אריאל גרינגלי'",
+    "ID_1":0,
+    "english":"Mitzpe Yehuda/Tzon Kedar",
+    "X":230372,
+    "Y":627081,
+    "type":1,
+    "status":"",
+    "arabic":"متسبيه يهودا / تسون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.49172,32.30597 ]
+    },
+    "properties": {
+    "hebrew":"חוות ארץ שמש",
+    "year":2019,
+    "name":"עשהאל קורניץ",
+    "ID_1":0,
+    "english":"Eretz Shemesh Farm",
+    "X":246512,
+    "Y":690283,
+    "type":1,
+    "status":"",
+    "arabic":"حفات إيرتس شيمش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34443,31.96808 ]
+    },
+    "properties": {
+    "hebrew":"מעוז אסתר",
+    "year":2019,
+    "name":"",
+    "ID_1":0,
+    "english":"Maoz Ester",
+    "X":232689,
+    "Y":652788,
+    "type":0,
+    "status":"",
+    "arabic":"مَعوز إستر",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35311,31.96631 ]
+    },
+    "properties": {
+    "hebrew":"כוכב השחר צפון מזרח",
+    "year":2019,
+    "name":"",
+    "ID_1":0,
+    "english":"Kochav Hashahar Northeast",
+    "X":233510,
+    "Y":652592,
+    "type":0,
+    "status":"",
+    "arabic":"كوخاف هشاحر شمال شرق ",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33558,31.92548 ]
+    },
+    "properties": {
+    "hebrew":"חוות רימונים",
+    "year":2019,
+    "name":"נריה בן פזי",
+    "ID_1":0,
+    "english":"Rimonim Farm",
+    "X":231858,
+    "Y":648063,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ريمونيم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.32267,32.03956 ]
+    },
+    "properties": {
+    "hebrew":"חוות שומרי העמק - חוות עמיחי",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Shomrei Haemek Farm - Amihai Farm",
+    "X":230624,
+    "Y":660711,
+    "type":0,
+    "status":"",
+    "arabic":"حفات شومري هعيمق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.36845,31.95095 ]
+    },
+    "properties": {
+    "hebrew":"אעירה שחר",
+    "year":2019,
+    "name":"",
+    "ID_1":0,
+    "english":"Aira Shahar",
+    "X":234962,
+    "Y":650891,
+    "type":1,
+    "status":"",
+    "arabic":"أعيرا شاحر",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35095,31.82606 ]
+    },
+    "properties": {
+    "hebrew":"חוות רותי",
+    "year":2020,
+    "name":"רוותי",
+    "ID_1":0,
+    "english":"Ruty Farm",
+    "X":233326,
+    "Y":637040,
+    "type":2,
+    "status":"",
+    "arabic":"حفات روتي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14263,31.92688 ]
+    },
+    "properties": {
+    "hebrew":"מצפה רינה",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Rina",
+    "X":213611,
+    "Y":648211,
+    "type":0,
+    "status":"",
+    "arabic":"متسبيه رينه",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9867,31.83609 ]
+    },
+    "properties": {
+    "hebrew":"חוות אדיס עלם",
+    "year":2019,
+    "name":"",
+    "ID_1":0,
+    "english":"Adis Alem Farm",
+    "X":198844,
+    "Y":638164,
+    "type":2,
+    "status":"",
+    "arabic":"حفات أديس عالم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27527,32.22823 ]
+    },
+    "properties": {
+    "hebrew":"הר עיבל",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Mt. Eibal",
+    "X":226133,
+    "Y":681629,
+    "type":1,
+    "status":"",
+    "arabic":"هار عيبال",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.26795,31.95597 ]
+    },
+    "properties": {
+    "hebrew":"אהבת עולם",
+    "year":2019,
+    "name":"",
+    "ID_1":0,
+    "english":"Ahavat Olam",
+    "X":225460,
+    "Y":651438,
+    "type":1,
+    "status":"",
+    "arabic":"أهفات عولام",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1777,31.41751 ]
+    },
+    "properties": {
+    "hebrew":"חוות יששכר מן",
+    "year":2020,
+    "name":"יששכר מן",
+    "ID_1":0,
+    "english":"Issachar Mann Farm",
+    "X":216914,
+    "Y":591730,
+    "type":1,
+    "status":"",
+    "arabic":"حفات يسّاخار مان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.42213,32.21079 ]
+    },
+    "properties": {
+    "hebrew":"חוות נחל תרצה",
+    "year":2020,
+    "name":"משה שרביט",
+    "ID_1":0,
+    "english":"Nahal Tirtza Farm",
+    "X":239980,
+    "Y":679714,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ناحل تيرتسا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.39194,32.20542 ]
+    },
+    "properties": {
+    "hebrew":"מרום שמואל - החווה של קוקו",
+    "year":2020,
+    "name":"הראל ליבי",
+    "ID_1":0,
+    "english":"Merom Shmuel - Coco's Farm",
+    "X":237134,
+    "Y":679113,
+    "type":1,
+    "status":"",
+    "arabic":"مَروم شموئيل - هاحافا شل كوكو",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35459,31.98631 ]
+    },
+    "properties": {
+    "hebrew":"חוות מיכה החדשה",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"New Micha Farm",
+    "X":233646,
+    "Y":654811,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ميخا هحداشا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34314,31.94595 ]
+    },
+    "properties": {
+    "hebrew":"מעלה שלמה דרום",
+    "year":2016,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Shlomo South",
+    "X":232570,
+    "Y":650333,
+    "type":0,
+    "status":"",
+    "arabic":"معليه شلومو جنوب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27851,32.08034 ]
+    },
+    "properties": {
+    "hebrew":"גבעת קורן",
+    "year":2018,
+    "name":"הראל קןרן",
+    "ID_1":0,
+    "english":"Givat Koren",
+    "X":226449,
+    "Y":665230,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات كورن",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.15185,32.09012 ]
+    },
+    "properties": {
+    "hebrew":"נוף אב\"י",
+    "year":2020,
+    "name":"ישראל רפפורט",
+    "ID_1":0,
+    "english":"Nof Avi",
+    "X":214492,
+    "Y":666313,
+    "type":1,
+    "status":"",
+    "arabic":"نوف آفي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33298,31.94807 ]
+    },
+    "properties": {
+    "hebrew":"מעלה אהוביה",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Ahuvya",
+    "X":231610,
+    "Y":650568,
+    "type":1,
+    "status":"",
+    "arabic":"معليه أهوفيا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24932,31.90845 ]
+    },
+    "properties": {
+    "hebrew":"עוז ציון",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Oz Tzion",
+    "X":223701,
+    "Y":646168,
+    "type":0,
+    "status":"",
+    "arabic":"عوز تسيون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.28185,32.04768 ]
+    },
+    "properties": {
+    "hebrew":"חוות נחל שילה",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Nahal Shilo Farm",
+    "X":226768,
+    "Y":661609,
+    "type":2,
+    "status":"",
+    "arabic":"حفات ناحل شيلو",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.40416,32.04242 ]
+    },
+    "properties": {
+    "hebrew":"חוות הרשאש",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Rashash Farm",
+    "X":238319,
+    "Y":661039,
+    "type":3,
+    "status":"",
+    "arabic":"حفات هرشاش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31896,31.8058 ]
+    },
+    "properties": {
+    "hebrew":"גבעה 324",
+    "year":2019,
+    "name":"",
+    "ID_1":0,
+    "english":"Hill 324",
+    "X":230301,
+    "Y":634790,
+    "type":2,
+    "status":"",
+    "arabic":"جيفعاه 324",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.19707,31.57707 ]
+    },
+    "properties": {
+    "hebrew":"נחלת אבות",
+    "year":2020,
+    "name":"אברהם פופר",
+    "ID_1":0,
+    "english":"Nahalat Avot",
+    "X":218757,
+    "Y":609422,
+    "type":0,
+    "status":"",
+    "arabic":"نحلات أفوت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.38289,31.91699 ]
+    },
+    "properties": {
+    "hebrew":"חוות זהר סבאח",
+    "year":2020,
+    "name":"זוהר סבח",
+    "ID_1":0,
+    "english":"Zohar Sabah Farm",
+    "X":236334,
+    "Y":647128,
+    "type":0,
+    "status":"",
+    "arabic":"حفات زوهر صباح",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.21044,31.58187 ]
+    },
+    "properties": {
+    "hebrew":"פני קדם מזרח",
+    "year":2020,
+    "name":"",
+    "ID_1":0,
+    "english":"Pnei Kedem East",
+    "X":220026,
+    "Y":609954,
+    "type":1,
+    "status":"",
+    "arabic":"بني كيدم شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.99987,31.36349 ]
+    },
+    "properties": {
+    "hebrew":"חוות מיתרים",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Meitarim Farm",
+    "X":199993,
+    "Y":585759,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ميتاريم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27509,32.12009 ]
+    },
+    "properties": {
+    "hebrew":"אביתר",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Evyatar",
+    "X":226123,
+    "Y":669638,
+    "type":0,
+    "status":"",
+    "arabic":"إيفياتار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13505,31.97008 ]
+    },
+    "properties": {
+    "hebrew":"נחליאל דרום",
+    "year":2016,
+    "name":"",
+    "ID_1":0,
+    "english":"Nahaliel South",
+    "X":212897,
+    "Y":653002,
+    "type":0,
+    "status":"",
+    "arabic":"نحليئيل جنوب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31402,31.51067 ]
+    },
+    "properties": {
+    "hebrew":"רוג'ום א-נאקה",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Rujum a-Naqah",
+    "X":229865,
+    "Y":602065,
+    "type":0,
+    "status":"",
+    "arabic":"رُجم الناقة",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16852,31.40118 ]
+    },
+    "properties": {
+    "hebrew":"חוות טוב הארץ",
+    "year":2021,
+    "name":"אביה וינשטוק",
+    "ID_1":0,
+    "english":"Tuv Ha'aretz Farm",
+    "X":216040,
+    "Y":589920,
+    "type":0,
+    "status":"",
+    "arabic":"حفات طوف هآرتس",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1398,31.68774 ]
+    },
+    "properties": {
+    "hebrew":"חוות עדן",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Eden Farm",
+    "X":213327,
+    "Y":621695,
+    "type":2,
+    "status":"",
+    "arabic":"حفان عيدن",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.26949,31.88663 ]
+    },
+    "properties": {
+    "hebrew":"רמת מגרון",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Ramat Migron",
+    "X":225610,
+    "Y":643749,
+    "type":0,
+    "status":"",
+    "arabic":"رُمات ميغرون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.42081,31.91084 ]
+    },
+    "properties": {
+    "hebrew":"מבואות יריחו",
+    "year":2021,
+    "name":"משה תמיר",
+    "ID_1":0,
+    "english":"Mevo'ot Yericho",
+    "X":239922,
+    "Y":646452,
+    "type":1,
+    "status":"",
+    "arabic":"مفوؤوت يريحو",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.19311,31.60029 ]
+    },
+    "properties": {
+    "hebrew":"פני קדם צפון",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Pnei Kedem North",
+    "X":218381,
+    "Y":611997,
+    "type":0,
+    "status":"",
+    "arabic":"بني كيدم شمال",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.07442,32.08833 ]
+    },
+    "properties": {
+    "hebrew":"שחרית",
+    "year":2015,
+    "name":"",
+    "ID_1":0,
+    "english":"Shaharit",
+    "X":207182,
+    "Y":666121,
+    "type":2,
+    "status":"",
+    "arabic":"شحَريت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.11247,32.14439 ]
+    },
+    "properties": {
+    "hebrew":"שובי ארץ",
+    "year":2021,
+    "name":"עדן לוי",
+    "ID_1":0,
+    "english":"Shuvi Eretz",
+    "X":210779,
+    "Y":672334,
+    "type":1,
+    "status":"",
+    "arabic":"شوفي آرتس",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.06185,32.13705 ]
+    },
+    "properties": {
+    "hebrew":"חוות נחל קנה - דורות",
+    "year":2021,
+    "name":"בן ישי אשד",
+    "ID_1":0,
+    "english":"Nahal Kane-Dorot Farm",
+    "X":206003,
+    "Y":671525,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ناحل كنيه دوروت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14548,32.00735 ]
+    },
+    "properties": {
+    "hebrew":"החווה של צבי בר יוסף",
+    "year":2018,
+    "name":"צבי בר יוסף",
+    "ID_1":0,
+    "english":"Tzvi Bar Yosef's Farm",
+    "X":213885,
+    "Y":657135,
+    "type":1,
+    "status":"",
+    "arabic":"هحفاه شِل تسفي بار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.32921,32.15841 ]
+    },
+    "properties": {
+    "hebrew":"חוות אלומות - שיר חדש",
+    "year":2001,
+    "name":"",
+    "ID_1":0,
+    "english":"Alumot-Shir Hadash Farm",
+    "X":231226,
+    "Y":673891,
+    "type":1,
+    "status":"",
+    "arabic":"حفات ألوموت شير حداش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.03968,31.90767 ]
+    },
+    "properties": {
+    "hebrew":"חווה בכפר (כפר רות - מרחב התפר)",
+    "year":2018,
+    "name":"אורי שם",
+    "ID_1":0,
+    "english":"Hava Bakfar (Kfar Rut - Seam Zone)",
+    "X":203872,
+    "Y":646092,
+    "type":0,
+    "status":"",
+    "arabic":"حفاه بكفار (كفار روت - مرحاف هتيفر)",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.41098,32.14284 ]
+    },
+    "properties": {
+    "hebrew":"חוות בסוס",
+    "year":2021,
+    "name":"יצחק בסוס",
+    "ID_1":0,
+    "english":"Basus Farm",
+    "X":238943,
+    "Y":672177,
+    "type":0,
+    "status":"",
+    "arabic":"حفات بسوس",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.101,31.39233 ]
+    },
+    "properties": {
+    "hebrew":"סוסיה מערב",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Susiya West",
+    "X":209618,
+    "Y":588943,
+    "type":0,
+    "status":"",
+    "arabic":"سوسيا غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10473,31.39378 ]
+    },
+    "properties": {
+    "hebrew":"גבעת הדגל-סוסיה",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Hadegel-Susiya",
+    "X":209973,
+    "Y":589103,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات هديجل - سوسيا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.29845,31.87067 ]
+    },
+    "properties": {
+    "hebrew":"נחלת צבי מעלה מכמש",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Nahalat Tzvi - Ma'ale Michmash",
+    "X":228352,
+    "Y":641982,
+    "type":0,
+    "status":"",
+    "arabic":"نحلات تسفي - معليه مخماش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.19426,31.43706 ]
+    },
+    "properties": {
+    "hebrew":"חוות שורשים",
+    "year":2022,
+    "name":"שמעון ואביטל עטיה",
+    "ID_1":0,
+    "english":"Shorashim Farm",
+    "X":218488,
+    "Y":593897,
+    "type":0,
+    "status":"",
+    "arabic":"حفات شورشيم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24788,31.44286 ]
+    },
+    "properties": {
+    "hebrew":"אם דרג' - מצפה מדרג",
+    "year":2022,
+    "name":"ואב עציון",
+    "ID_1":0,
+    "english":"Um Daraj - Mitzpe Midrag",
+    "X":223586,
+    "Y":594541,
+    "type":0,
+    "status":"",
+    "arabic":"أم درج - متسبيه مدراج",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.54161,32.22371 ]
+    },
+    "properties": {
+    "hebrew":"שלוחה של חוות גושן",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Goshen Farm extension",
+    "X":251239,
+    "Y":681175,
+    "type":0,
+    "status":"",
+    "arabic":"امتداد حفات جوشن",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.40244,32.10419 ]
+    },
+    "properties": {
+    "hebrew":"מחנה אסף",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Assaf camp",
+    "X":238145,
+    "Y":667889,
+    "type":0,
+    "status":"",
+    "arabic":"محنيه أساف",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.03255,32.0486 ]
+    },
+    "properties": {
+    "hebrew":"חוות אביחי",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Avichai Farm",
+    "X":203222,
+    "Y":661720,
+    "type":0,
+    "status":"עב ר למקום הזה במהלך קיץ 23",
+    "arabic":"حفات أفيحاي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23004,31.90124 ]
+    },
+    "properties": {
+    "hebrew":"יחיש ציון",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Yahish Tzion",
+    "X":221878,
+    "Y":645368,
+    "type":0,
+    "status":"",
+    "arabic":"يحيش تسيون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1951,31.72448 ]
+    },
+    "properties": {
+    "hebrew":"טנטור - ליד חומת בית לחם",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Tantur - by Bethlehem wall",
+    "X":218571,
+    "Y":625767,
+    "type":0,
+    "status":"בתוך תחום שיפוט ירושלים",
+    "arabic":"طنطور - قرب جدار بيت لحم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18934,31.72543 ]
+    },
+    "properties": {
+    "hebrew":"מצפה רחל",
+    "year":2021,
+    "name":"רונן",
+    "ID_1":0,
+    "english":"Mitzpe Rahel",
+    "X":218025,
+    "Y":625873,
+    "type":0,
+    "status":"בתוך תחום שיפוט ירושלים",
+    "arabic":"متسبيه راحيل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.15972,32.23268 ]
+    },
+    "properties": {
+    "hebrew":"אורי עד",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Uri Ad",
+    "X":215241,
+    "Y":682121,
+    "type":0,
+    "status":"",
+    "arabic":"أوري عاد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.15235,32.23005 ]
+    },
+    "properties": {
+    "hebrew":"הר חמד",
+    "year":1998,
+    "name":"",
+    "ID_1":0,
+    "english":"Har Hemed",
+    "X":214546,
+    "Y":681829,
+    "type":0,
+    "status":"",
+    "arabic":"هار حيمد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3278,32.06045 ]
+    },
+    "properties": {
+    "hebrew":"אחיה",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Ahiya",
+    "X":231105,
+    "Y":663029,
+    "type":0,
+    "status":"",
+    "arabic":"أحيا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33619,32.06518 ]
+    },
+    "properties": {
+    "hebrew":"אש קודש",
+    "year":2000,
+    "name":"",
+    "ID_1":0,
+    "english":"Esh Kodesh",
+    "X":231897,
+    "Y":663554,
+    "type":0,
+    "status":"",
+    "arabic":"إش كودش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33456,32.04097 ]
+    },
+    "properties": {
+    "hebrew":"עדי עד",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Adei Ad",
+    "X":231746,
+    "Y":660869,
+    "type":0,
+    "status":"",
+    "arabic":"عدي عاد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33987,32.05076 ]
+    },
+    "properties": {
+    "hebrew":"קידה",
+    "year":2003,
+    "name":"",
+    "ID_1":0,
+    "english":"Kida",
+    "X":232247,
+    "Y":661955,
+    "type":0,
+    "status":"",
+    "arabic":"كيدَه",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.26247,32.05447 ]
+    },
+    "properties": {
+    "hebrew":"הרואה",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Haroe",
+    "X":224937,
+    "Y":662360,
+    "type":0,
+    "status":"הוחלט להכשירו בשנת 2023",
+    "arabic":"هروئيه",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27305,32.05979 ]
+    },
+    "properties": {
+    "hebrew":"גבעת הראל",
+    "year":1998,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Harel",
+    "X":225935,
+    "Y":662951,
+    "type":0,
+    "status":"",
+    "arabic":"جفعات هرئيل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.28618,32.06884 ]
+    },
+    "properties": {
+    "hebrew":"היובל",
+    "year":1998,
+    "name":"",
+    "ID_1":0,
+    "english":"Hayovel",
+    "X":227174,
+    "Y":663955,
+    "type":0,
+    "status":"",
+    "arabic":"هايوفِل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27473,32.08765 ]
+    },
+    "properties": {
+    "hebrew":"פלגי מים",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Palgei Mayim",
+    "X":226092,
+    "Y":666040,
+    "type":0,
+    "status":"",
+    "arabic":"بلجي مايِم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23487,32.09817 ]
+    },
+    "properties": {
+    "hebrew":"נופי נחמיה",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Nofei Nehemya",
+    "X":222328,
+    "Y":667205,
+    "type":0,
+    "status":"הוכשר כשכנה של רחלים בשנת 202",
+    "arabic":"نوفي نحميا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25548,32.19254 ]
+    },
+    "properties": {
+    "hebrew":"ברכה מערב",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Bracha West",
+    "X":224269,
+    "Y":677670,
+    "type":0,
+    "status":"",
+    "arabic":"براخا غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.26351,32.1778 ]
+    },
+    "properties": {
+    "hebrew":"סנה יעקב",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Sne Ya'akov",
+    "X":225027,
+    "Y":676036,
+    "type":0,
+    "status":"",
+    "arabic":"سنيه يعقوب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.11418,32.17851 ]
+    },
+    "properties": {
+    "hebrew":"רמת גלעד",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Ramat Gilad",
+    "X":210944,
+    "Y":676117,
+    "type":0,
+    "status":"",
+    "arabic":"رمات جلعاد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2516,31.93945 ]
+    },
+    "properties": {
+    "hebrew":"משפטי ארץ",
+    "year":2003,
+    "name":"",
+    "ID_1":0,
+    "english":"Mishpatei Eretz",
+    "X":223916,
+    "Y":649605,
+    "type":0,
+    "status":"",
+    "arabic":"مشبطي آرتس",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2297,31.94117 ]
+    },
+    "properties": {
+    "hebrew":"בית אל מזרח - תל חיים",
+    "year":2001,
+    "name":"",
+    "ID_1":0,
+    "english":"Beit El East - Tel Haim",
+    "X":221845,
+    "Y":649795,
+    "type":0,
+    "status":"",
+    "arabic":"بيت إيل شرق - تل حاييم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.22945,31.94729 ]
+    },
+    "properties": {
+    "hebrew":"ג'בל ארטיס - פסגת יעקב",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Jabal Artis - Pisgat Ya'akov",
+    "X":221821,
+    "Y":650473,
+    "type":0,
+    "status":"",
+    "arabic":"جبل أرطيس - بيسجات يعقوب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24824,31.91124 ]
+    },
+    "properties": {
+    "hebrew":"גבעת אסף",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Assaf",
+    "X":223599,
+    "Y":646477,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات أساف",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23078,31.89591 ]
+    },
+    "properties": {
+    "hebrew":"מצפה העי",
+    "year":2001,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Ha'ay",
+    "X":221948,
+    "Y":644777,
+    "type":0,
+    "status":"",
+    "arabic":"متسبيه هعاي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25199,31.87747 ]
+    },
+    "properties": {
+    "hebrew":"כוכב יעקב מזרח",
+    "year":2004,
+    "name":"",
+    "ID_1":0,
+    "english":"Kochav Ya'akov East",
+    "X":223956,
+    "Y":642732,
+    "type":0,
+    "status":"",
+    "arabic":"كوخاف يعقوب شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23418,31.88366 ]
+    },
+    "properties": {
+    "hebrew":"כוכב יעקב מערב",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Kochav Ya'akov West",
+    "X":222270,
+    "Y":643418,
+    "type":0,
+    "status":"",
+    "arabic":"كوخاف يعقوب غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33514,31.90778 ]
+    },
+    "properties": {
+    "hebrew":"חוות המכוך",
+    "year":2023,
+    "name":"נריה בן פזי",
+    "ID_1":0,
+    "english":"Hamachoch Farm",
+    "X":231819,
+    "Y":646100,
+    "type":0,
+    "status":"",
+    "arabic":"حفات همخوخ",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.11807,31.95687 ]
+    },
+    "properties": {
+    "hebrew":"זית רענן",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Zayit Ra'anan",
+    "X":211291,
+    "Y":651540,
+    "type":0,
+    "status":"",
+    "arabic":"زايت رعنان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13996,31.94465 ]
+    },
+    "properties": {
+    "hebrew":"חורש ירון",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Horesh Yaron",
+    "X":213360,
+    "Y":650182,
+    "type":0,
+    "status":"הוכשר בשנת 2017",
+    "arabic":"حورش يارون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3143,31.88041 ]
+    },
+    "properties": {
+    "hebrew":"מצפה דני",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Dani",
+    "X":229851,
+    "Y":643063,
+    "type":0,
+    "status":"הוכשר בשנת 2023",
+    "arabic":"متسبيه داني",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3107,31.86497 ]
+    },
+    "properties": {
+    "hebrew":"נווה ארז",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Neve Erez",
+    "X":229512,
+    "Y":641350,
+    "type":0,
+    "status":"",
+    "arabic":"نفيه إيرز",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3053,31.84439 ]
+    },
+    "properties": {
+    "hebrew":"בני אדם - אדם מזרח",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Bnei Adam - Adam East",
+    "X":229003,
+    "Y":639068,
+    "type":0,
+    "status":"",
+    "arabic":"بني آدم - آدم شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33798,31.85134 ]
+    },
+    "properties": {
+    "hebrew":"מעלה חגית",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Hagit",
+    "X":232095,
+    "Y":639842,
+    "type":0,
+    "status":"",
+    "arabic":"معليه حجيت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16417,31.68032 ]
+    },
+    "properties": {
+    "hebrew":"גבעת התמר",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Hatamar",
+    "X":215638,
+    "Y":620872,
+    "type":0,
+    "status":"הוכשר בתוך אפרת",
+    "arabic":"جيفعات هتمار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.17278,31.68161 ]
+    },
+    "properties": {
+    "hebrew":"גבעת הדגן",
+    "year":1995,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Hadagan",
+    "X":216454,
+    "Y":621014,
+    "type":0,
+    "status":"הוכשר בתוך אפרת",
+    "arabic":"جيفعات هدغان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13544,31.66591 ]
+    },
+    "properties": {
+    "hebrew":"דרך האבות",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Derech Ha'avot",
+    "X":212913,
+    "Y":619275,
+    "type":0,
+    "status":"הוכשר בתוך אלעזר",
+    "arabic":"ديرخ هأفوت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13292,31.65427 ]
+    },
+    "properties": {
+    "hebrew":"גבעת החי\"ש",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Hahish",
+    "X":212673,
+    "Y":617985,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات هحيش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10835,31.65347 ]
+    },
+    "properties": {
+    "hebrew":"בת עין מזרח",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Bat Ayin East",
+    "X":210343,
+    "Y":617898,
+    "type":0,
+    "status":"",
+    "arabic":"بات عاين شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.21941,31.60658 ]
+    },
+    "properties": {
+    "hebrew":"איבי הנחל",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Ibei Hanachal",
+    "X":220877,
+    "Y":612694,
+    "type":0,
+    "status":"הוכשר בשנת 2019",
+    "arabic":"إيبي هناحل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.19562,31.58835 ]
+    },
+    "properties": {
+    "hebrew":"פני קדם",
+    "year":1994,
+    "name":"",
+    "ID_1":0,
+    "english":"Pnei Kedem",
+    "X":218619,
+    "Y":610673,
+    "type":0,
+    "status":"הוכשר בשנת 2023",
+    "arabic":"بني كيدم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.04334,31.37394 ]
+    },
+    "properties": {
+    "hebrew":"עשהאל",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Asael",
+    "X":204131,
+    "Y":586911,
+    "type":0,
+    "status":"הוחלט להכשירו ב202",
+    "arabic":"عسائيل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31428,31.81952 ]
+    },
+    "properties": {
+    "hebrew":"גבעת גרניט - נ.ג 468",
+    "year":2003,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Granit - Hill 468",
+    "X":229856,
+    "Y":636310,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات غرانيت ن. ج. 468",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35668,31.82064 ]
+    },
+    "properties": {
+    "hebrew":"חאן ארץ המרדפים",
+    "year":2013,
+    "name":"",
+    "ID_1":0,
+    "english":"Khan Eretz Hamirdafim",
+    "X":233870,
+    "Y":636440,
+    "type":0,
+    "status":"",
+    "arabic":"خان إيرتس همردفيم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14149,31.4031 ]
+    },
+    "properties": {
+    "hebrew":"אביגיל",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Avigayil",
+    "X":213470,
+    "Y":590134,
+    "type":0,
+    "status":"הוחלט להכשיר ב2023",
+    "arabic":"أفيجايل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.22286,32.17208 ]
+    },
+    "properties": {
+    "hebrew":"אחוזת שלהבת",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Ahuzat Shalhevet",
+    "X":221193,
+    "Y":675401,
+    "type":0,
+    "status":"",
+    "arabic":"أحوزات شلهيفت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24047,32.16257 ]
+    },
+    "properties": {
+    "hebrew":"חוות שקד",
+    "year":2003,
+    "name":"",
+    "ID_1":0,
+    "english":"Shaked Farm",
+    "X":222855,
+    "Y":674347,
+    "type":0,
+    "status":"",
+    "arabic":"حفات شكيد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24838,32.16217 ]
+    },
+    "properties": {
+    "hebrew":"להבה",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Lehava",
+    "X":223601,
+    "Y":674302,
+    "type":0,
+    "status":"",
+    "arabic":"لهفاه",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24107,32.15837 ]
+    },
+    "properties": {
+    "hebrew":"גבעת תקומה - נ.ג 725",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Tkuma - Hill 725",
+    "X":222911,
+    "Y":673880,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات تكوما - ن. ج. 725",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24927,32.15839 ]
+    },
+    "properties": {
+    "hebrew":"מצפה יצהר",
+    "year":2005,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Yitzhar",
+    "X":223685,
+    "Y":673884,
+    "type":0,
+    "status":"",
+    "arabic":"متسبيه يتسهار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33472,32.16703 ]
+    },
+    "properties": {
+    "hebrew":"הגדעונים - נ.ג 851",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Hagidonim 851",
+    "X":231745,
+    "Y":674848,
+    "type":0,
+    "status":"",
+    "arabic":"هجدعونيم - ن. ج.  851",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31632,32.16798 ]
+    },
+    "properties": {
+    "hebrew":"הנקודה",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Hanekuda",
+    "X":230009,
+    "Y":674951,
+    "type":0,
+    "status":"",
+    "arabic":"هنيكودا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09071,32.08102 ]
+    },
+    "properties": {
+    "hebrew":"ברוכין",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Bruchin",
+    "X":208719,
+    "Y":665308,
+    "type":0,
+    "status":"הוכשר בשנת 2014",
+    "arabic":"بروخين",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09175,31.66233 ]
+    },
+    "properties": {
+    "hebrew":"מרחבי דוד - בת עין מערב",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Merhavei David - Bat Ayin West",
+    "X":208769,
+    "Y":618881,
+    "type":0,
+    "status":"",
+    "arabic":"مِرحَفي دافيد - بات عاين غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27796,32.07587 ]
+    },
+    "properties": {
+    "hebrew":"נוף הרים",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Nof Harim",
+    "X":226398,
+    "Y":664734,
+    "type":0,
+    "status":"הוכשר בשנת 2020",
+    "arabic":"نوف هَريم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10555,32.1457 ]
+    },
+    "properties": {
+    "hebrew":"חוות יאיר",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Yair Farm",
+    "X":210127,
+    "Y":672479,
+    "type":0,
+    "status":"",
+    "arabic":"حفات يئير",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14911,31.94427 ]
+    },
+    "properties": {
+    "hebrew":"חרשה",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Haresha",
+    "X":214224,
+    "Y":650140,
+    "type":0,
+    "status":"הוכשר בשנת 2017",
+    "arabic":"حريشه",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13613,31.95834 ]
+    },
+    "properties": {
+    "hebrew":"כרם רעים",
+    "year":2001,
+    "name":"",
+    "ID_1":0,
+    "english":"Kerem Reim",
+    "X":212999,
+    "Y":651701,
+    "type":0,
+    "status":"הוכשר בשנת 2017",
+    "arabic":"كيرم ريعيم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25887,31.64967 ]
+    },
+    "properties": {
+    "hebrew":"מעלה רחבעם",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Rehavam",
+    "X":224619,
+    "Y":617473,
+    "type":0,
+    "status":"",
+    "arabic":"معليه رحبعام",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.97039,31.49662 ]
+    },
+    "properties": {
+    "hebrew":"מצפה לכיש - גבעת הבוסטר",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Lachish - Givat Habooster",
+    "X":197220,
+    "Y":600525,
+    "type":0,
+    "status":"",
+    "arabic":"متسبيه لخيش - جيفعات هبوستر",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14761,31.69392 ]
+    },
+    "properties": {
+    "hebrew":"שדה בועז - נווה דניאל צפון",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Sde Boaz - Neve Daniel North",
+    "X":214069,
+    "Y":622380,
+    "type":0,
+    "status":"",
+    "arabic":"سْديه بوعاز - نفيه دانيال شمال",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.11042,31.39483 ]
+    },
+    "properties": {
+    "hebrew":"הרוג'ום",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Rujum",
+    "X":210514,
+    "Y":589219,
+    "type":0,
+    "status":"",
+    "arabic":"الرُّجُم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.096,31.60604 ]
+    },
+    "properties": {
+    "hebrew":"צור שלם",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Tzur Shalem",
+    "X":209166,
+    "Y":612639,
+    "type":0,
+    "status":"",
+    "arabic":"تسور شالوم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12776,31.52442 ]
+    },
+    "properties": {
+    "hebrew":"גבעת גל",
+    "year":2004,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Gal",
+    "X":212174,
+    "Y":603587,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات جال",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12096,32.16346 ]
+    },
+    "properties": {
+    "hebrew":"אלוני שילה",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Alonei Shilo",
+    "X":211582,
+    "Y":674448,
+    "type":0,
+    "status":"",
+    "arabic":"ألوني شيلو",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.07525,32.15159 ]
+    },
+    "properties": {
+    "hebrew":"אלמתן",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Elmatan",
+    "X":207269,
+    "Y":673135,
+    "type":0,
+    "status":"הוכשר בשנת 2016",
+    "arabic":"إيل متان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.08496,32.28777 ]
+    },
+    "properties": {
+    "hebrew":"ההר",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Hahar",
+    "X":208202,
+    "Y":688236,
+    "type":0,
+    "status":"",
+    "arabic":"هَهار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.02062,32.10992 ]
+    },
+    "properties": {
+    "hebrew":"מגן דן",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Magen Dan",
+    "X":202107,
+    "Y":668523,
+    "type":0,
+    "status":"",
+    "arabic":"مجين دان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13868,32.01095 ]
+    },
+    "properties": {
+    "hebrew":"אלישע מכינה קד\"צ",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Elisha Preparatory Program",
+    "X":213243,
+    "Y":657535,
+    "type":0,
+    "status":"",
+    "arabic":"إليشع - تحضيرية عسكرية",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10455,32.11566 ]
+    },
+    "properties": {
+    "hebrew":"מעלה ישראל",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Israel",
+    "X":210029,
+    "Y":669148,
+    "type":0,
+    "status":"",
+    "arabic":"معليه يسرائيل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13493,31.38315 ]
+    },
+    "properties": {
+    "hebrew":"מצפה יאיר",
+    "year":1998,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Yair",
+    "X":212844,
+    "Y":587922,
+    "type":0,
+    "status":"",
+    "arabic":"متسبيه يئير",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35698,31.95768 ]
+    },
+    "properties": {
+    "hebrew":"מצפה כרמים",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Kramim",
+    "X":233877,
+    "Y":651635,
+    "type":0,
+    "status":"",
+    "arabic":"متسبيه كْرَميم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34733,32.225 ]
+    },
+    "properties": {
+    "hebrew":"נחלת יוסף",
+    "year":2011,
+    "name":"",
+    "ID_1":0,
+    "english":"Nahalat Yosef",
+    "X":232926,
+    "Y":681277,
+    "type":0,
+    "status":"",
+    "arabic":"نحلات يوسف",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.01372,32.2034 ]
+    },
+    "properties": {
+    "hebrew":"צופין צפון",
+    "year":2011,
+    "name":"",
+    "ID_1":0,
+    "english":"Tzufin North",
+    "X":201474,
+    "Y":678890,
+    "type":0,
+    "status":"",
+    "arabic":"تسوفين شمال",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13382,31.64169 ]
+    },
+    "properties": {
+    "hebrew":"עוז וגאון",
+    "year":2014,
+    "name":"",
+    "ID_1":0,
+    "english":"Oz Vegaon",
+    "X":212757,
+    "Y":616589,
+    "type":0,
+    "status":"",
+    "arabic":"عوز فيجأون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.50708,31.82082 ]
+    },
+    "properties": {
+    "hebrew":"בית חוגלה - מול נבו",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Beit Hogla",
+    "X":248110,
+    "Y":636490,
+    "type":0,
+    "status":"הוחלט להכשיר ב2023",
+    "arabic":"بيت حوجْلَه - مول نبو ",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.10427,31.40704 ]
+    },
+    "properties": {
+    "hebrew":"אתר ארכיאולוגי סוסיא",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Susiya archeological site",
+    "X":209930,
+    "Y":590573,
+    "type":0,
+    "status":"",
+    "arabic":"موقع أثري سوسيا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18151,32.20009 ]
+    },
+    "properties": {
+    "hebrew":"חוות גלעד",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Havat Gilad (Gilad Farm)",
+    "X":217294,
+    "Y":678506,
+    "type":0,
+    "status":"",
+    "arabic":"حفات جلعاد",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.04503,31.4845 ]
+    },
+    "properties": {
+    "hebrew":"מרכז חירום אדוריים",
+    "year":2012,
+    "name":"",
+    "ID_1":0,
+    "english":"Adorayim emergency center",
+    "X":204309,
+    "Y":599168,
+    "type":0,
+    "status":"",
+    "arabic":"مركز طوارئ أدوراييم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.01583,31.39323 ]
+    },
+    "properties": {
+    "hebrew":"מצפה אשתמוע",
+    "year":2003,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Eshtamoa",
+    "X":201518,
+    "Y":589053,
+    "type":0,
+    "status":"הוכשר בשנת 2013",
+    "arabic":"متسبيه أشتموع",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18914,31.67517 ]
+    },
+    "properties": {
+    "hebrew":"גבעת עיטם",
+    "year":2012,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Eitam",
+    "X":218005,
+    "Y":620300,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات عيتام",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.48697,32.12283 ]
+    },
+    "properties": {
+    "hebrew":"מכינה קדם צבאית ליאל מחנה גדי",
+    "year":2018,
+    "name":"",
+    "ID_1":0,
+    "english":"Liel Preparatory Program (Mahane Gadi)",
+    "X":246118,
+    "Y":669974,
+    "type":0,
+    "status":"",
+    "arabic":"تحضيرية عسكريّة - محنيه ج",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24754,31.63309 ]
+    },
+    "properties": {
+    "hebrew":"תקוע ה",
+    "year":2018,
+    "name":"",
+    "ID_1":0,
+    "english":"Tekoa E",
+    "X":223545,
+    "Y":615634,
+    "type":0,
+    "status":"",
+    "arabic":"تكواع هـ",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24213,31.63527 ]
+    },
+    "properties": {
+    "hebrew":"תקוע ד",
+    "year":2002,
+    "name":"",
+    "ID_1":0,
+    "english":"Tekoa D",
+    "X":223032,
+    "Y":615876,
+    "type":0,
+    "status":"",
+    "arabic":"تكواع د",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23191,31.64315 ]
+    },
+    "properties": {
+    "hebrew":"תקוע ב+ג",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Tekoa B+C",
+    "X":222062,
+    "Y":616750,
+    "type":0,
+    "status":"",
+    "arabic":"تكواع ب + ج",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.35327,31.82777 ]
+    },
+    "properties": {
+    "hebrew":"ארץ בראשית",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Eretz Bereshit",
+    "X":233546,
+    "Y":637230,
+    "type":0,
+    "status":"",
+    "arabic":"إيرتس بريشيت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25794,32.10334 ]
+    },
+    "properties": {
+    "hebrew":"רחלים",
+    "year":1991,
+    "name":"",
+    "ID_1":0,
+    "english":"Rehelim",
+    "X":224506,
+    "Y":667778,
+    "type":0,
+    "status":"הוכשר בשנת  2017",
+    "arabic":"رخيلين",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34238,31.95761 ]
+    },
+    "properties": {
+    "hebrew":"אהבת חיים",
+    "year":1999,
+    "name":"",
+    "ID_1":0,
+    "english":"Ahavat Hayim",
+    "X":232497,
+    "Y":651626,
+    "type":0,
+    "status":"",
+    "arabic":"أهفات حاييم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.45221,32.23924 ]
+    },
+    "properties": {
+    "hebrew":"חוות בקעות",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Bekaot Farm",
+    "X":242808,
+    "Y":682875,
+    "type":0,
+    "status":"",
+    "arabic":"حفات بقعوت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.28723,32.06111 ]
+    },
+    "properties": {
+    "hebrew":"גבעת הקטורת",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Haktoret",
+    "X":227275,
+    "Y":663098,
+    "type":0,
+    "status":"עלה וירד כמה פעמים. עלה שוב",
+    "arabic":"جيفعات هقطورت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23018,31.89432 ]
+    },
+    "properties": {
+    "hebrew":"פסגות דרום",
+    "year":2008,
+    "name":"",
+    "ID_1":0,
+    "english":"Psagot South",
+    "X":221892,
+    "Y":644600,
+    "type":0,
+    "status":"",
+    "arabic":"بساجوت جنوب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.38706,32.0905 ]
+    },
+    "properties": {
+    "hebrew":"חוות גיתית",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Gitit Farm",
+    "X":236696,
+    "Y":666369,
+    "type":0,
+    "status":"הוקם במאי 2023",
+    "arabic":"حفات جيتيت",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14668,31.96785 ]
+    },
+    "properties": {
+    "hebrew":"יבוא דודי",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Yavo Dodi",
+    "X":213996,
+    "Y":652754,
+    "type":0,
+    "status":"",
+    "arabic":"يَفو دودي",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.31533,31.85682 ]
+    },
+    "properties": {
+    "hebrew":"נווה ארז דרום",
+    "year":2023,
+    "name":"ינון כהן",
+    "ID_1":0,
+    "english":"Neve Erez South",
+    "X":229951,
+    "Y":640448,
+    "type":0,
+    "status":"אחרי הפיגוע בחומוס אליהו",
+    "arabic":"نفيه إيرز جنوب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.37417,31.90864 ]
+    },
+    "properties": {
+    "hebrew":"אל מערג'את",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Al-Mu'arrajat",
+    "X":235510,
+    "Y":646200,
+    "type":0,
+    "status":"אחרי הפיגוע בחומוס אליהו",
+    "arabic":"المعرّجات",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14769,32.15388 ]
+    },
+    "properties": {
+    "hebrew":"חוות אופנהיימר",
+    "year":2023,
+    "name":"יאיר והדר אופנהיימר",
+    "ID_1":0,
+    "english":"Oppenheimer Farm",
+    "X":214103,
+    "Y":673384,
+    "type":0,
+    "status":"אחרי הפיגוע בחומוס אליהו",
+    "arabic":"حفات أوبنهايمر",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.24964,31.62981 ]
+    },
+    "properties": {
+    "hebrew":"חוות הראל",
+    "year":2023,
+    "name":"אלישע טורנר",
+    "ID_1":0,
+    "english":"Harel Farm",
+    "X":223744,
+    "Y":615270,
+    "type":0,
+    "status":"אחרי הרצח בחומוס אליהו",
+    "arabic":"حفات هرئيل",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.41998,32.05586 ]
+    },
+    "properties": {
+    "hebrew":"מעלה אפרים דרום מזרח",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Efrayim Southeast",
+    "X":239811,
+    "Y":662534,
+    "type":0,
+    "status":"אחרי הרצח בחומוס אליהו",
+    "arabic":"معليه إفرايم جنوب شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13956,31.3819 ]
+    },
+    "properties": {
+    "hebrew":"ממזרח למצפה יאיר",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"East of Mitzpe Yair",
+    "X":213285,
+    "Y":587784,
+    "type":0,
+    "status":"",
+    "arabic":"شرقي متسبيه يئير",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1238,31.37569 ]
+    },
+    "properties": {
+    "hebrew":"חוות אהרון שמחוביץ",
+    "year":2023,
+    "name":"אהרון שמחוביץ",
+    "ID_1":0,
+    "english":"Aharon Simhovitz Farm",
+    "X":211785,
+    "Y":587096,
+    "type":0,
+    "status":"תחילת יולי 20223",
+    "arabic":"حفات أهرون سمحوفيتش",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25158,31.93434 ]
+    },
+    "properties": {
+    "hebrew":"אור מאיר",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Or Meir",
+    "X":223914,
+    "Y":649038,
+    "type":0,
+    "status":"",
+    "arabic":"أور مئير",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.37103,32.00382 ]
+    },
+    "properties": {
+    "hebrew":"חווה חקלאית חדשה אליאב ליבי",
+    "year":2023,
+    "name":"אליאב ליבי",
+    "ID_1":0,
+    "english":"Eliav Libi new farm",
+    "X":235198,
+    "Y":656754,
+    "type":0,
+    "status":"",
+    "arabic":"حفات إلياف ليبي الجديدة",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.27913,31.88823 ]
+    },
+    "properties": {
+    "hebrew":"שדה יהונתן",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Sde Yehonatan",
+    "X":226522,
+    "Y":643927,
+    "type":0,
+    "status":"",
+    "arabic":"سْديه يهوناتان",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.98432,31.50105 ]
+    },
+    "properties": {
+    "hebrew":"נגוהות צפון",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Negohot North",
+    "X":198545,
+    "Y":601014,
+    "type":0,
+    "status":"",
+    "arabic":"نجوهوت شمال",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.11158,32.45426 ]
+    },
+    "properties": {
+    "hebrew":"חוות אבי\"ה",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Aviya Farm",
+    "X":210725,
+    "Y":706696,
+    "type":0,
+    "status":"",
+    "arabic":"حفات أفيها",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.1269,31.97815 ]
+    },
+    "properties": {
+    "hebrew":"גפנה",
+    "year":2022,
+    "name":"",
+    "ID_1":0,
+    "english":"Gofna",
+    "X":212128,
+    "Y":653898,
+    "type":0,
+    "status":"פונה ועלה שוב ב2023. לעקוב",
+    "arabic":"جفنة",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.37989,32.00497 ]
+    },
+    "properties": {
+    "hebrew":"נקודת רעיית בקר מלאכי השלום",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Malachei Hashalom cowherding point",
+    "X":236034,
+    "Y":656883,
+    "type":0,
+    "status":"",
+    "arabic":"مرعى أبقار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.34222,32.07118 ]
+    },
+    "properties": {
+    "hebrew":"חוות בר",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Bar Farm",
+    "X":232465,
+    "Y":664220,
+    "type":0,
+    "status":"",
+    "arabic":"حفات بار",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09991,32.08339 ]
+    },
+    "properties": {
+    "hebrew":"חוות תל חמד",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Tel Hemed Farm",
+    "X":209588,
+    "Y":665570,
+    "type":0,
+    "status":"",
+    "arabic":"حفات تِل موند",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.09995,31.3889 ]
+    },
+    "properties": {
+    "hebrew":"סוסיה דרום מערב",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Susiya Southwest",
+    "X":209517,
+    "Y":588562,
+    "type":0,
+    "status":"",
+    "arabic":"سوسيا جنوب غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14609,31.39756 ]
+    },
+    "properties": {
+    "hebrew":"המאחז של בודי",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Bodi's Outpost",
+    "X":213907,
+    "Y":589520,
+    "type":0,
+    "status":"אחרי המלחמה",
+    "arabic":"مأحاز بودي",
+    "אחרי":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.15319,31.71644 ]
+    },
+    "properties": {
+    "hebrew":"בתיר שלוחה של נווה אורי",
+    "year":2023,
+    "name":"ליאור טל",
+    "ID_1":0,
+    "english":"Batir - Neve Ori extension",
+    "X":214599,
+    "Y":624877,
+    "type":0,
+    "status":"עלה שוב ב24.12.23",
+    "arabic":"بتير امتداد نفيه أوري",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14042,31.93595 ]
+    },
+    "properties": {
+    "hebrew":"גבעת הבריכה",
+    "year":1997,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Habrecha",
+    "X":213403,
+    "Y":649218,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات هبريخا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3219,31.88122 ]
+    },
+    "properties": {
+    "hebrew":"חוות רוח הארץ",
+    "year":2023,
+    "name":"בת חן ודרור גרנביץ",
+    "ID_1":0,
+    "english":"Ruah Ha'aretz Farm",
+    "X":230570,
+    "Y":643153,
+    "type":0,
+    "status":"הוקם בספטמבר 2023. היו קודם בנ",
+    "arabic":"حفات روح هآرتس",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33876,31.95031 ]
+    },
+    "properties": {
+    "hebrew":"מעלה אהוביה מזרח",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Ma'ale Ahuvya",
+    "X":232156,
+    "Y":650816,
+    "type":0,
+    "status":"",
+    "arabic":"معليه أهوفيا شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.14514,31.48413 ]
+    },
+    "properties": {
+    "hebrew":"גבעת האנטנה - מצפה זי\"ו",
+    "year":2021,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Ha'antena - Mitzpe Ziv",
+    "X":213822,
+    "Y":599118,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات هأنتينا - متسبيه زين",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.16254,31.40352 ]
+    },
+    "properties": {
+    "hebrew":"מצפון לסרורה",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"North of Sarura",
+    "X":215471,
+    "Y":590180,
+    "type":0,
+    "status":"",
+    "arabic":"شمالي صارورة",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.20102,31.60638 ]
+    },
+    "properties": {
+    "hebrew":"גבעת אלופי יהודה",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Givat Alufei Yehuda",
+    "X":219132,
+    "Y":612672,
+    "type":0,
+    "status":"",
+    "arabic":"جيفعات ألوفي يهودا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.12296,32.28164 ]
+    },
+    "properties": {
+    "hebrew":"ענב דרום מזרח",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Einav Southeast",
+    "X":211780,
+    "Y":687553,
+    "type":0,
+    "status":"",
+    "arabic":"عيناب جنوب شرق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13252,32.2817 ]
+    },
+    "properties": {
+    "hebrew":"מצפה מאיר",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Mitzpe Meir",
+    "X":212681,
+    "Y":687559,
+    "type":0,
+    "status":"אחרי המלחמה",
+    "arabic":"متسبيه مئير",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.23749,31.5958 ]
+    },
+    "properties": {
+    "hebrew":"נודע ביהודה",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Noda Beyehuda",
+    "X":222593,
+    "Y":611500,
+    "type":0,
+    "status":"",
+    "arabic":"نوداع بيهودا",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25137,31.63047 ]
+    },
+    "properties": {
+    "hebrew":"קרואנים מזרחית לתקוע",
+    "year":2024,
+    "name":"",
+    "ID_1":0,
+    "english":"Trailers east of Tekoa",
+    "X":223909,
+    "Y":615344,
+    "type":0,
+    "status":"אחרי המלחמה",
+    "arabic":"كرفانات شرقيّ تكواع",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.29038,31.84288 ]
+    },
+    "properties": {
+    "hebrew":"אם הבנים",
+    "year":2024,
+    "name":"",
+    "ID_1":0,
+    "english":"Em Habanim",
+    "X":227590,
+    "Y":638899,
+    "type":0,
+    "status":"",
+    "arabic":"إم هبَنيم",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25058,32.05576 ]
+    },
+    "properties": {
+    "hebrew":"החושן",
+    "year":2024,
+    "name":"",
+    "ID_1":0,
+    "english":"Hahoshen",
+    "X":223814,
+    "Y":662503,
+    "type":0,
+    "status":"הוקם ביוני 23 ופונה. הוקם מחד",
+    "arabic":"هحوشِن",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.33401,31.90306 ]
+    },
+    "properties": {
+    "hebrew":"ואדי סיק",
+    "year":2023,
+    "name":"",
+    "ID_1":0,
+    "english":"Wadi Siq",
+    "X":231713,
+    "Y":645576,
+    "type":0,
+    "status":"",
+    "arabic":"وادي السيق",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.25153,31.62126 ]
+    },
+    "properties": {
+    "hebrew":"חאן אושפיזין",
+    "year":2024,
+    "name":"",
+    "ID_1":0,
+    "english":"Khan Ushpizin",
+    "X":223924,
+    "Y":614323,
+    "type":0,
+    "status":"",
+    "arabic":"خان أوشبيزين",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.41571,32.07835 ]
+    },
+    "properties": {
+    "hebrew":"עין א-סוכון",
+    "year":2024,
+    "name":"",
+    "ID_1":0,
+    "english":"Ein a-Sukhun",
+    "X":239403,
+    "Y":665027,
+    "type":0,
+    "status":"מרץ 2024 לפני גירוש הבדואים",
+    "arabic":"عين السكون",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.48166,32.1166 ]
+    },
+    "properties": {
+    "hebrew":"משואה מערב",
+    "year":2024,
+    "name":"",
+    "ID_1":0,
+    "english":"Masua West",
+    "X":0,
+    "Y":0,
+    "type":0,
+    "status":"",
+    "arabic":"مَسوآه غرب",
+    "אחרי":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.13222,32.0095 ]
+    },
+    "properties": {
+    "hebrew":"יד אח\"י",
+    "year":0,
+    "name":"",
+    "ID_1":0,
+    "english":"Yad Ahi",
+    "X":0,
+    "Y":0,
+    "type":0,
+    "status":"",
+    "arabic":"يد أحي",
+    "אחרי":"0"
+    }
+  }
+]
+}

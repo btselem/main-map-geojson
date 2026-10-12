@@ -1,0 +1,5011 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.6201159,
+                    31.3145239
+                ]
+            },
+            "properties": {
+                "GISID": "31",
+                "type": "Israeli City",
+                "hebrew": "אופקים",
+                "english": "Ofakim",
+                "arabic": "اوفاكيم",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.522734,
+                    31.304744
+                ]
+            },
+            "properties": {
+                "GISID": "",
+                "type": "Israeli City",
+                "hebrew": "אורים",
+                "english": "Urim",
+                "arabic": "أوريم",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9503805,
+                    29.5548409
+                ]
+            },
+            "properties": {
+                "GISID": "2600",
+                "type": "Israeli City",
+                "hebrew": "אילת",
+                "english": "Eilat",
+                "arabic": "إيلات",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.6403083,
+                    31.8007153
+                ]
+            },
+            "properties": {
+                "GISID": "70",
+                "type": "Israeli City",
+                "hebrew": "אשדוד",
+                "english": "Ashdod",
+                "arabic": "اشدود",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5631019,
+                    31.6650757
+                ]
+            },
+            "properties": {
+                "GISID": "7100",
+                "type": "Israeli City",
+                "hebrew": "אשקלון",
+                "english": "Ashkelon",
+                "arabic": "اشكلون",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7989819,
+                    31.2493743
+                ]
+            },
+            "properties": {
+                "GISID": "9000",
+                "type": "Israeli City",
+                "hebrew": "באר-שבע",
+                "english": "Beersheva",
+                "arabic": "بئر السبع",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.542099,
+                    32.319401
+                ]
+            },
+            "properties": {
+                "GISID": "",
+                "type": "Settlement",
+                "hebrew": "ברוש הבקעה",
+                "english": "Brosh Habik'a",
+                "arabic": "بروش هبكعا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.259069,
+                    31.874148
+                ]
+            },
+            "properties": {
+                "GISID": "",
+                "type": "Settlement",
+                "hebrew": "גבעת היקב",
+                "english": "Giv'at Hayekev",
+                "arabic": "جفعات هياكف",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0313237,
+                    31.0650013
+                ]
+            },
+            "properties": {
+                "GISID": "2200",
+                "type": "Israeli City",
+                "hebrew": "דימונה",
+                "english": "Dimona",
+                "arabic": "ديمونة",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2418,
+                    31.7941
+                ]
+            },
+            "properties": {
+                "GISID": "6824",
+                "type": "Israeli City",
+                "hebrew": "הר הצופים",
+                "english": "Mount Scopus",
+                "arabic": "جبل سكوباس",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.171837,
+                    31.834285
+                ]
+            },
+            "properties": {
+                "GISID": "",
+                "type": "Settlement",
+                "hebrew": "הר שמואל",
+                "english": "Har Shmuel",
+                "arabic": "هار شموئيل",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.5211,
+                    31.6083
+                ]
+            },
+            "properties": {
+                "GISID": "",
+                "type": "Israeli City",
+                "hebrew": "זיקים",
+                "english": "Zikim",
+                "arabic": "زيقيم",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9128538,
+                    32.4346897
+                ]
+            },
+            "properties": {
+                "GISID": "6500",
+                "type": "Israeli City",
+                "hebrew": "חדרה",
+                "english": "Hadera",
+                "arabic": "الخضيرة",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.972916,
+                    32.827673
+                ]
+            },
+            "properties": {
+                "GISID": "4000",
+                "type": "Israeli City",
+                "hebrew": "חיפה",
+                "english": "Haifa",
+                "arabic": "حيفا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.538342,
+                    32.7916663
+                ]
+            },
+            "properties": {
+                "GISID": "6700",
+                "type": "Israeli City",
+                "hebrew": "טבריה",
+                "english": "Tiberias",
+                "arabic": "طبريا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0046636,
+                    32.2689447
+                ]
+            },
+            "properties": {
+                "GISID": "2730",
+                "type": "Israeli City",
+                "hebrew": "טייבה",
+                "english": "Taybeh",
+                "arabic": "الطيبة",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.215302,
+                    31.783633
+                ]
+            },
+            "properties": {
+                "GISID": "3000",
+                "type": "Israeli City",
+                "hebrew": "ירושלים",
+                "english": "Jerusalem",
+                "arabic": "القدس",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9073317,
+                    32.172263
+                ]
+            },
+            "properties": {
+                "GISID": "6900",
+                "type": "Israeli City",
+                "hebrew": "כפר סבא",
+                "english": "Kfar Sava",
+                "arabic": "كفار سابا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8953649,
+                    31.947686
+                ]
+            },
+            "properties": {
+                "GISID": "7000",
+                "type": "Israeli City",
+                "hebrew": "לוד",
+                "english": "Lod",
+                "arabic": "اللد",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0709,
+                    31.3575
+                ]
+            },
+            "properties": {
+                "GISID": "1287",
+                "type": "Israeli City",
+                "hebrew": "ליבנה (שני)",
+                "english": "Livne (Shani)",
+                "arabic": "ليفني (شيني)",
+                "established ": "1989"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.594188,
+                    31.4253345
+                ]
+            },
+            "properties": {
+                "GISID": "246",
+                "type": "Israeli City",
+                "hebrew": "נתיבות",
+                "english": "Netivot",
+                "arabic": "نتيفوت",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8558445,
+                    32.328138
+                ]
+            },
+            "properties": {
+                "GISID": "7400",
+                "type": "Israeli City",
+                "hebrew": "נתניה",
+                "english": "Netanya",
+                "arabic": "نتانيا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0705584,
+                    32.924588
+                ]
+            },
+            "properties": {
+                "GISID": "7600",
+                "type": "Israeli City",
+                "hebrew": "עכו",
+                "english": "Akko",
+                "arabic": "عكا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2894316,
+                    32.6090345
+                ]
+            },
+            "properties": {
+                "GISID": "7700",
+                "type": "Israeli City",
+                "hebrew": "עפולה",
+                "english": "Afula",
+                "arabic": "عفولة",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7710893,
+                    31.6082329
+                ]
+            },
+            "properties": {
+                "GISID": "2630",
+                "type": "Israeli City",
+                "hebrew": "קריית גת",
+                "english": "Kiryat Gat",
+                "arabic": "كريات جات",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7442,
+                    31.7313
+                ]
+            },
+            "properties": {
+                "GISID": "1034",
+                "type": "Israeli City",
+                "hebrew": "קריית מלאכי",
+                "english": "Kiryat Malachi",
+                "arabic": "كريات ملاخي",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5688771,
+                    33.2090514
+                ]
+            },
+            "properties": {
+                "GISID": "2800",
+                "type": "Israeli City",
+                "hebrew": "קריית שמונה",
+                "english": "Kiryat Shemona",
+                "arabic": "كريات شمونا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8032789,
+                    31.9636611
+                ]
+            },
+            "properties": {
+                "GISID": "8300",
+                "type": "Israeli City",
+                "hebrew": "ראשון לציון",
+                "english": "Rishon Lezion",
+                "arabic": "ريشون",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7573676,
+                    31.3917362
+                ]
+            },
+            "properties": {
+                "GISID": "1161",
+                "type": "Israeli City",
+                "hebrew": "רהט",
+                "english": "Rahat ",
+                "arabic": "رهط",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.807793,
+                    31.8978428
+                ]
+            },
+            "properties": {
+                "GISID": "8400",
+                "type": "Israeli City",
+                "hebrew": "רחובות",
+                "english": "Rehovot",
+                "arabic": "رحوفوت",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.595776,
+                    31.530312
+                ]
+            },
+            "properties": {
+                "GISID": "1031",
+                "type": "Israeli City",
+                "hebrew": "שדרות",
+                "english": "Sderot",
+                "arabic": "سديروت",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7794616,
+                    32.0817194
+                ]
+            },
+            "properties": {
+                "GISID": "5000",
+                "type": "Israeli City",
+                "hebrew": "תל-אביב",
+                "english": "Tel Aviv",
+                "arabic": "تل ابيب",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0412,
+                    31.9316
+                ]
+            },
+            "properties": {
+                "GISID": "3797",
+                "type": "Settlement",
+                "hebrew": "מודיעין עילית",
+                "english": "Modi'in Illit",
+                "arabic": "موديعين عيليت",
+                "established ": "1996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1131,
+                    31.6973
+                ]
+            },
+            "properties": {
+                "GISID": "3780",
+                "type": "Settlement",
+                "hebrew": "ביתר עילית",
+                "english": "Beitar Illit",
+                "arabic": "بيتار عيليت",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1949,
+                    31.8169
+                ]
+            },
+            "properties": {
+                "GISID": "6792",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "רמות אלון",
+                "english": "Ramot Alon",
+                "arabic": "راموت آلون",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2449,
+                    31.8227
+                ]
+            },
+            "properties": {
+                "GISID": "6805",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "פסגת זאב",
+                "english": "Pisgat Ze'ev",
+                "arabic": "بسجات زئب",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3105,
+                    31.7812
+                ]
+            },
+            "properties": {
+                "GISID": "3616",
+                "type": "Settlement",
+                "hebrew": "מעלה אדומים",
+                "english": "Ma'ale Adumim",
+                "arabic": "معاليه ادوميم",
+                "established ": "1975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.189,
+                    31.7332
+                ]
+            },
+            "properties": {
+                "GISID": "6853",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "גילה",
+                "english": "Gilo",
+                "arabic": "جيلو",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2411,
+                    31.839
+                ]
+            },
+            "properties": {
+                "GISID": "6806",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "נווה יעקב",
+                "english": "Neve Ya'akov",
+                "arabic": "نفيه يعقوب",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2221,
+                    31.7234
+                ]
+            },
+            "properties": {
+                "GISID": "6861",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "הר חומה",
+                "english": "Har Homa",
+                "arabic": "هار حوما (جبل ابو غنيم)",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1871,
+                    32.1045
+                ]
+            },
+            "properties": {
+                "GISID": "3570",
+                "type": "Settlement",
+                "hebrew": "אריאל",
+                "english": "Ari'el",
+                "arabic": "اريئيل",
+                "established ": "1978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1676,
+                    31.861
+                ]
+            },
+            "properties": {
+                "GISID": "3730",
+                "type": "Settlement",
+                "hebrew": "גבעת זאב",
+                "english": "Giv'at Ze'ev",
+                "arabic": "جفعات زئيف",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2179,
+                    31.8105
+                ]
+            },
+            "properties": {
+                "GISID": "6800",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "רמת שלמה",
+                "english": "Ramat Shlomo",
+                "arabic": "راموت شلومو",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2321,
+                    31.7488
+                ]
+            },
+            "properties": {
+                "GISID": "6836",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "תלפיות מזרח",
+                "english": "Talpiot (East)",
+                "arabic": "تلبيوت (شرق)",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9909,
+                    32.1305
+                ]
+            },
+            "properties": {
+                "GISID": "3760",
+                "type": "Settlement",
+                "hebrew": "אורנית",
+                "english": "Oranit",
+                "arabic": "اورانيت",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1549,
+                    31.6607
+                ]
+            },
+            "properties": {
+                "GISID": "3650",
+                "type": "Settlement",
+                "hebrew": "אפרת",
+                "english": "Efrat",
+                "arabic": "افرات",
+                "established ": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2379,
+                    31.8032
+                ]
+            },
+            "properties": {
+                "GISID": "6820",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "הגבעה הצרפתית (גבעת שפירא)",
+                "english": "French Hill (Giv'at Shapira)",
+                "arabic": "التلة الفرنسية",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0127,
+                    32.173
+                ]
+            },
+            "properties": {
+                "GISID": "3750",
+                "type": "Settlement",
+                "hebrew": "אלפי מנשה",
+                "english": "Alfei Menashe",
+                "arabic": "الفي مناشيه",
+                "established ": "1993"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2421,
+                    31.8799
+                ]
+            },
+            "properties": {
+                "GISID": "3779",
+                "type": "Settlement",
+                "hebrew": "כוכב יעקב",
+                "english": "Kochav Ya'akov",
+                "arabic": "كوخاف يعقوب",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1192,
+                    31.5332
+                ]
+            },
+            "properties": {
+                "GISID": "3611",
+                "type": "Settlement",
+                "hebrew": "קריית ארבע",
+                "english": "Kiryat Arba",
+                "arabic": "كريات اربع",
+                "established ": "1972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2249,
+                    31.8011
+                ]
+            },
+            "properties": {
+                "GISID": "6504",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "רמת אשכול ",
+                "english": "Ramat Eshkol",
+                "arabic": "رامات أشكول",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0927,
+                    32.1705
+                ]
+            },
+            "properties": {
+                "GISID": "3640",
+                "type": "Settlement",
+                "hebrew": "קרני שומרון",
+                "english": "Karnei Shomron",
+                "arabic": "كارني شومرون",
+                "established ": "1978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2225,
+                    31.9417
+                ]
+            },
+            "properties": {
+                "GISID": "3574",
+                "type": "Settlement",
+                "hebrew": "בית אל",
+                "english": "Beit El",
+                "arabic": "بيت ايل",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0253,
+                    32.1227
+                ]
+            },
+            "properties": {
+                "GISID": "3720",
+                "type": "Settlement",
+                "hebrew": "שערי תקווה",
+                "english": "Sha'arei Tikva",
+                "arabic": "شاعر تيكفا",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2739,
+                    31.8493
+                ]
+            },
+            "properties": {
+                "GISID": "3763",
+                "type": "Settlement",
+                "hebrew": "אדם (גבע בנימין)",
+                "english": "Adam (Geva Binyamin)",
+                "arabic": "أدم (جبع بنيامين)",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0506,
+                    32.0361
+                ]
+            },
+            "properties": {
+                "GISID": "3652",
+                "type": "Settlement",
+                "hebrew": "בית אריה",
+                "english": "Bet Arye",
+                "arabic": "بيت اريه",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1597,
+                    32.2168
+                ]
+            },
+            "properties": {
+                "GISID": "3557",
+                "type": "Settlement",
+                "hebrew": "קדומים",
+                "english": "Kedumim",
+                "arabic": "قدوميم",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3333,
+                    31.8236
+                ]
+            },
+            "properties": {
+                "GISID": "3638",
+                "type": "Settlement",
+                "hebrew": "כפר אדומים",
+                "english": "Kfar Adumim",
+                "arabic": "كفار ادوميم",
+                "established ": "1979"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2666,
+                    32.072
+                ]
+            },
+            "properties": {
+                "GISID": "3765",
+                "type": "Settlement",
+                "hebrew": "עלי",
+                "english": "Eli",
+                "arabic": "ايلي",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0342,
+                    32.1115
+                ]
+            },
+            "properties": {
+                "GISID": "3560",
+                "type": "Settlement",
+                "hebrew": "אלקנה",
+                "english": "Elkana",
+                "arabic": "الكانا",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1285,
+                    31.8261
+                ]
+            },
+            "properties": {
+                "GISID": "3769",
+                "type": "Settlement",
+                "hebrew": "הר אדר",
+                "english": "Har Adar",
+                "arabic": "هار ادار",
+                "established ": "1986"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1317,
+                    31.9453
+                ]
+            },
+            "properties": {
+                "GISID": "3788",
+                "type": "Settlement",
+                "hebrew": "טלמון",
+                "english": "Talmon",
+                "arabic": "تلمون",
+                "established ": "1989"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2299,
+                    31.6489
+                ]
+            },
+            "properties": {
+                "GISID": "3563",
+                "type": "Settlement",
+                "hebrew": "תקוע",
+                "english": "Tekoa",
+                "arabic": "تقوع",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2998,
+                    32.0525
+                ]
+            },
+            "properties": {
+                "GISID": "3641",
+                "type": "Settlement",
+                "hebrew": "שילה",
+                "english": "Shilo",
+                "arabic": "شيلو",
+                "established ": "1979"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1397,
+                    32.1641
+                ]
+            },
+            "properties": {
+                "GISID": "3660",
+                "type": "Settlement",
+                "hebrew": "עמנואל",
+                "english": "Immanuel",
+                "arabic": "عمانوئيل",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1245,
+                    31.6553
+                ]
+            },
+            "properties": {
+                "GISID": "3604",
+                "type": "Settlement",
+                "hebrew": "אלון שבות",
+                "english": "Alon Shvut",
+                "arabic": "آلون شيفوت",
+                "established ": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2623,
+                    31.9532
+                ]
+            },
+            "properties": {
+                "GISID": "3617",
+                "type": "Settlement",
+                "hebrew": "עפרה",
+                "english": "Ofra",
+                "arabic": "عوفرا",
+                "established ": "1975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2263,
+                    31.7968
+                ]
+            },
+            "properties": {
+                "GISID": "6501",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "מעלות דפנה",
+                "english": "Ma'alot Dafna",
+                "arabic": " معالوت دافناه",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2316,
+                    31.7749
+                ]
+            },
+            "properties": {
+                "GISID": "6870",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "הרובע היהודי",
+                "english": "Jewish Quarter",
+                "arabic": "حارة اليهود",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0201,
+                    31.9299
+                ]
+            },
+            "properties": {
+                "GISID": "3770",
+                "type": "Settlement",
+                "hebrew": "חשמונאים",
+                "english": "Hasmoneam",
+                "arabic": "هشمونائيم",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0363,
+                    31.9195
+                ]
+            },
+            "properties": {
+                "GISID": "3796",
+                "type": "Settlement",
+                "hebrew": "כפר האורנים (מנורה)",
+                "english": "Kfar Haoranim (Menora)",
+                "arabic": "كفار هأورانيم (مينورا)",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1419,
+                    31.6598
+                ]
+            },
+            "properties": {
+                "GISID": "3618",
+                "type": "Settlement",
+                "hebrew": "אלעזר",
+                "english": "Elazar",
+                "arabic": "العزار",
+                "established ": "1975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0356,
+                    31.8475
+                ]
+            },
+            "properties": {
+                "GISID": "3709",
+                "type": "Settlement",
+                "hebrew": "מבוא חורון",
+                "english": "Mevo Horon",
+                "arabic": "مفو حورون",
+                "established ": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.394,
+                    31.8159
+                ]
+            },
+            "properties": {
+                "GISID": "3576",
+                "type": "Settlement",
+                "hebrew": "מצפה יריחו",
+                "english": "Mitzpe Yeriho",
+                "arabic": "مطل اريحا",
+                "established ": "1978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1428,
+                    31.6778
+                ]
+            },
+            "properties": {
+                "GISID": "3725",
+                "type": "Settlement",
+                "hebrew": "נווה דניאל",
+                "english": "Neve Daniel",
+                "arabic": "نفي دانئيل",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2635,
+                    32.1924
+                ]
+            },
+            "properties": {
+                "GISID": "3710",
+                "type": "Settlement",
+                "hebrew": "הר ברכה",
+                "english": "Har Bracha",
+                "arabic": "هار برخا",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0084,
+                    32.1982
+                ]
+            },
+            "properties": {
+                "GISID": "3791",
+                "type": "Settlement",
+                "hebrew": "צופין (צופים)",
+                "english": "Zufin (Zufim)",
+                "arabic": "تسوفين (تسوفيم)",
+                "established ": "1989"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1279,
+                    32.1183
+                ]
+            },
+            "properties": {
+                "GISID": "3795",
+                "type": "Settlement",
+                "hebrew": "רבבה",
+                "english": "Revava",
+                "arabic": "رفافا",
+                "established ": "1991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3478,
+                    31.9592
+                ]
+            },
+            "properties": {
+                "GISID": "3564",
+                "type": "Settlement",
+                "hebrew": "כוכב השחר",
+                "english": "Kochav Hashachar",
+                "arabic": "كوخاف هشاحر",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2464,
+                    31.6485
+                ]
+            },
+            "properties": {
+                "GISID": "3726",
+                "type": "Settlement",
+                "hebrew": "נוקדים",
+                "english": "Nokdim",
+                "arabic": "نكوديم",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2239,
+                    31.8985
+                ]
+            },
+            "properties": {
+                "GISID": "3659",
+                "type": "Settlement",
+                "hebrew": "פסגות",
+                "english": "Psagot",
+                "arabic": "بساجوت",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1129,
+                    32.1493
+                ]
+            },
+            "properties": {
+                "GISID": "3647",
+                "type": "Settlement",
+                "hebrew": "יקיר",
+                "english": "Yaqir",
+                "arabic": "ياكير",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0457,
+                    32.119
+                ]
+            },
+            "properties": {
+                "GISID": "3778",
+                "type": "Settlement",
+                "hebrew": "עץ אפרים",
+                "english": "Etz Efrayim",
+                "arabic": "عتس افرايم",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3334,
+                    32.2331
+                ]
+            },
+            "properties": {
+                "GISID": "3579",
+                "type": "Settlement",
+                "hebrew": "אלון מורה",
+                "english": "Elon Moreh",
+                "arabic": "آلون موريه",
+                "established ": "1979"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1054,
+                    32.1067
+                ]
+            },
+            "properties": {
+                "GISID": "3654",
+                "type": "Settlement",
+                "hebrew": "ברקן",
+                "english": "Barkan",
+                "arabic": "بركان",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0734,
+                    32.2859
+                ]
+            },
+            "properties": {
+                "GISID": "3793",
+                "type": "Settlement",
+                "hebrew": "אבני חפץ",
+                "english": "Avne Hefetz",
+                "arabic": "أفني حيفز",
+                "established ": "1990"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.051,
+                    32.0618
+                ]
+            },
+            "properties": {
+                "GISID": "3768",
+                "type": "Settlement",
+                "hebrew": "פדואל",
+                "english": "Pedu'el",
+                "arabic": "بدوئيل",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0634,
+                    31.9626
+                ]
+            },
+            "properties": {
+                "GISID": "3787",
+                "type": "Settlement",
+                "hebrew": "נעלה",
+                "english": "Na'ale",
+                "arabic": "نعليه",
+                "established ": "1988"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1697,
+                    31.7222
+                ]
+            },
+            "properties": {
+                "GISID": "3603",
+                "type": "Settlement",
+                "hebrew": "הר גילה",
+                "english": "Har Gilo",
+                "arabic": "هار جيلو",
+                "established ": "1972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3105,
+                    31.7538
+                ]
+            },
+            "properties": {
+                "GISID": "3781",
+                "type": "Settlement",
+                "hebrew": "קדר",
+                "english": "Qedar",
+                "arabic": "كيدار",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.047,
+                    31.9631
+                ]
+            },
+            "properties": {
+                "GISID": "3655",
+                "type": "Settlement",
+                "hebrew": "ניל\"י",
+                "english": "Nili",
+                "arabic": "نيلي",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2381,
+                    32.166
+                ]
+            },
+            "properties": {
+                "GISID": "3749",
+                "type": "Settlement",
+                "hebrew": "יצהר",
+                "english": "Yizhar",
+                "arabic": "يزهار",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3061,
+                    31.8789
+                ]
+            },
+            "properties": {
+                "GISID": "3651",
+                "type": "Settlement",
+                "hebrew": "מעלה מכמש",
+                "english": "Ma'ale Mikhmas",
+                "arabic": "معاليه ميخماس",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3023,
+                    32.1761
+                ]
+            },
+            "properties": {
+                "GISID": "3762",
+                "type": "Settlement",
+                "hebrew": "איתמר",
+                "english": "Itamar",
+                "arabic": "ايتمار",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.133,
+                    31.926
+                ]
+            },
+            "properties": {
+                "GISID": "3747",
+                "type": "Settlement",
+                "hebrew": "דולב",
+                "english": "Dolev",
+                "arabic": "دوليف",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0654,
+                    32.0709
+                ]
+            },
+            "properties": {
+                "GISID": "3727",
+                "type": "Settlement",
+                "hebrew": "עלי זהב",
+                "english": "Alei Zahav",
+                "arabic": "ايلي زهاف",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2937,
+                    31.8294
+                ]
+            },
+            "properties": {
+                "GISID": "3715",
+                "type": "Settlement",
+                "hebrew": "עלמון",
+                "english": "Almon",
+                "arabic": "المون",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1262,
+                    32.0063
+                ]
+            },
+            "properties": {
+                "GISID": "3573",
+                "type": "Settlement",
+                "hebrew": "חלמיש",
+                "english": "Neve Halamish",
+                "arabic": "نفي حلميش",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1262,
+                    31.8776
+                ]
+            },
+            "properties": {
+                "GISID": "3575",
+                "type": "Settlement",
+                "hebrew": "בית חורון",
+                "english": "Bet Horon",
+                "arabic": "بين حورون",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.101,
+                    31.6579
+                ]
+            },
+            "properties": {
+                "GISID": "3794",
+                "type": "Settlement",
+                "hebrew": "בת עין",
+                "english": "Bat Ayin",
+                "arabic": "بات عاين",
+                "established ": "1989"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4054,
+                    32.0705
+                ]
+            },
+            "properties": {
+                "GISID": "3608",
+                "type": "Settlement",
+                "hebrew": "מעלה אפרים",
+                "english": "Ma'ale Efrayim",
+                "arabic": "معاليه افرايم",
+                "established ": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1576,
+                    31.8477
+                ]
+            },
+            "properties": {
+                "GISID": "3644",
+                "type": "Settlement",
+                "hebrew": "גבעון החדשה",
+                "english": "Givon Hahadasha",
+                "arabic": "جيفعون هحدشاه",
+                "established ": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1719,
+                    32.4801
+                ]
+            },
+            "properties": {
+                "GISID": "3643",
+                "type": "Settlement",
+                "hebrew": "חיננית",
+                "english": "Hinnanit",
+                "arabic": "حينانيت",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1148,
+                    31.6489
+                ]
+            },
+            "properties": {
+                "GISID": "3488",
+                "type": "Settlement",
+                "hebrew": "כפר עציון",
+                "english": "Kfar Etzion",
+                "arabic": "كفار عتسيون",
+                "established ": "1967"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1125,
+                    31.3925
+                ]
+            },
+            "properties": {
+                "GISID": "3756",
+                "type": "Settlement",
+                "hebrew": "סוסיא",
+                "english": "Susiya",
+                "arabic": "سوسيا",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0998,
+                    31.6086
+                ]
+            },
+            "properties": {
+                "GISID": "3766",
+                "type": "Settlement",
+                "hebrew": "כרמי צור",
+                "english": "Carmei Tzur",
+                "arabic": "كرمي تسور",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0698,
+                    32.1644
+                ]
+            },
+            "properties": {
+                "GISID": "3637",
+                "type": "Settlement",
+                "hebrew": "מעלה שומרון",
+                "english": "Ma'ale Shomeron",
+                "arabic": "معاليه شومرون",
+                "established ": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2474,
+                    32.1176
+                ]
+            },
+            "properties": {
+                "GISID": "3572",
+                "type": "Settlement",
+                "hebrew": "כפר תפוח",
+                "english": "Kfar Tapuah",
+                "arabic": "كفار تبواح",
+                "established ": "1978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1235,
+                    31.6679
+                ]
+            },
+            "properties": {
+                "GISID": "3602",
+                "type": "Settlement",
+                "hebrew": "ראש צורים",
+                "english": "Rosh Tzurim",
+                "arabic": "روش تسوريم",
+                "established ": "1969"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0288,
+                    31.4391
+                ]
+            },
+            "properties": {
+                "GISID": "3748",
+                "type": "Settlement",
+                "hebrew": "עתניאל",
+                "english": "Otniel",
+                "arabic": "عونتئيل",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1763,
+                    32.0002
+                ]
+            },
+            "properties": {
+                "GISID": "3658",
+                "type": "Settlement",
+                "hebrew": "עטרת",
+                "english": "Ateret",
+                "arabic": "عاطرت",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1843,
+                    32.2629
+                ]
+            },
+            "properties": {
+                "GISID": "3571",
+                "type": "Settlement",
+                "hebrew": "שבי שומרון",
+                "english": "Shavei Shomron",
+                "arabic": "شفي شومرون",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1116,
+                    32.1165
+                ]
+            },
+            "properties": {
+                "GISID": "3746",
+                "type": "Settlement",
+                "hebrew": "קריית נטפים",
+                "english": "Kiryat Netafim",
+                "arabic": "كريات ينتافيم",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1679,
+                    32.4732
+                ]
+            },
+            "properties": {
+                "GISID": "3649",
+                "type": "Settlement",
+                "hebrew": "שקד",
+                "english": "Shaqed",
+                "arabic": "شكيد",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2395,
+                    32.0544
+                ]
+            },
+            "properties": {
+                "GISID": "3752",
+                "type": "Settlement",
+                "hebrew": "מעלה לבונה",
+                "english": "Ma'ale Levona",
+                "arabic": "معاليه ليفونا",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9564,
+                    31.375
+                ]
+            },
+            "properties": {
+                "GISID": "3743",
+                "type": "Settlement",
+                "hebrew": "טנא",
+                "english": "Tene",
+                "arabic": "طينيه",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.085893,
+                    32.0804661
+                ]
+            },
+            "properties": {
+                "GISID": "15027",
+                "type": "Settlement",
+                "hebrew": "ברוכין",
+                "english": "Bruchin",
+                "arabic": "بروقين",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1257,
+                    32.2845
+                ]
+            },
+            "properties": {
+                "GISID": "3712",
+                "type": "Settlement",
+                "hebrew": "ענב",
+                "english": "Einav",
+                "arabic": "عيناف",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.042663,
+                    31.925974
+                ]
+            },
+            "properties": {
+                "GISID": "3648",
+                "type": "Settlement",
+                "hebrew": "מתתיהו",
+                "english": "Mattityahu",
+                "arabic": "متتياهو",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0511,
+                    32.2425
+                ]
+            },
+            "properties": {
+                "GISID": "3567",
+                "type": "Settlement",
+                "hebrew": "סלעית",
+                "english": "Sal'it",
+                "arabic": "سلعيت",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1389,
+                    31.9738
+                ]
+            },
+            "properties": {
+                "GISID": "3767",
+                "type": "Settlement",
+                "hebrew": "נחליאל",
+                "english": "Nahaliel",
+                "arabic": "ناحلئيل",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1006,
+                    32.1547
+                ]
+            },
+            "properties": {
+                "GISID": "3790",
+                "type": "Settlement",
+                "hebrew": "נופים",
+                "english": "Nofim",
+                "arabic": "نوفيم",
+                "established ": "1987"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3401,
+                    31.9334
+                ]
+            },
+            "properties": {
+                "GISID": "3565",
+                "type": "Settlement",
+                "hebrew": "רימונים",
+                "english": "Rimmonim",
+                "arabic": "ريمونيم",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0792,
+                    31.4926
+                ]
+            },
+            "properties": {
+                "GISID": "3764",
+                "type": "Settlement",
+                "hebrew": "בית חגי",
+                "english": "Beit Hagai",
+                "arabic": "بيت حجاي",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1889,
+                    31.5866
+                ]
+            },
+            "properties": {
+                "GISID": "3754",
+                "type": "Settlement",
+                "hebrew": "אספר",
+                "english": "Asefar",
+                "arabic": "اسفار",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2565732,
+                    32.1022487
+                ]
+            },
+            "properties": {
+                "GISID": "15031",
+                "type": "Settlement",
+                "hebrew": "רחלים",
+                "english": "Rechelim",
+                "arabic": "رحاليم",
+                "established ": "1991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5339,
+                    32.3461
+                ]
+            },
+            "properties": {
+                "GISID": "3578",
+                "type": "Settlement",
+                "hebrew": "שדמות מחולה",
+                "english": "Shademot Mehola",
+                "arabic": "شدموت محولة",
+                "established ": "1979"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0125,
+                    31.3877
+                ]
+            },
+            "properties": {
+                "GISID": "3784",
+                "type": "Settlement",
+                "hebrew": "שמעה",
+                "english": "Shim'a",
+                "arabic": "شيمعا",
+                "established ": "1985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.163,
+                    31.4116
+                ]
+            },
+            "properties": {
+                "GISID": "3657",
+                "type": "Settlement",
+                "hebrew": "מעון",
+                "english": "Ma'on",
+                "arabic": "ماعون",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9044,
+                    31.3906
+                ]
+            },
+            "properties": {
+                "GISID": "3722",
+                "type": "Settlement",
+                "hebrew": "אשכולות",
+                "english": "Eshkolot",
+                "arabic": "اشكلوت",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5147,
+                    32.365
+                ]
+            },
+            "properties": {
+                "GISID": "3599",
+                "type": "Settlement",
+                "hebrew": "מחולה",
+                "english": "Mehola",
+                "arabic": "محولة",
+                "established ": "1968"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1124,
+                    31.3632
+                ]
+            },
+            "properties": {
+                "GISID": "3745",
+                "type": "Settlement",
+                "hebrew": "מצדות יהודה",
+                "english": "Mezadot Yehuda",
+                "arabic": "متسودوت يهودا",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1425,
+                    31.6392
+                ]
+            },
+            "properties": {
+                "GISID": "3561",
+                "type": "Settlement",
+                "hebrew": "מגדל עוז",
+                "english": "Migdal Oz",
+                "arabic": "مجدال عوز",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1647,
+                    31.4862
+                ]
+            },
+            "properties": {
+                "GISID": "3723",
+                "type": "Settlement",
+                "hebrew": "פני חבר",
+                "english": "Pnei Hever",
+                "arabic": "بني حيفير",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1843,
+                    31.4319
+                ]
+            },
+            "properties": {
+                "GISID": "3656",
+                "type": "Settlement",
+                "hebrew": "כרמל",
+                "english": "Carmel",
+                "arabic": "الكرمل",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0165,
+                    31.5518
+                ]
+            },
+            "properties": {
+                "GISID": "3759",
+                "type": "Settlement",
+                "hebrew": "אדורה",
+                "english": "Adora",
+                "arabic": "ادورا",
+                "established ": "1984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4653,
+                    31.7502
+                ]
+            },
+            "properties": {
+                "GISID": "3601",
+                "type": "Settlement",
+                "hebrew": "קליה",
+                "english": "Qalya",
+                "arabic": "قاليا",
+                "established ": "1968"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2255,
+                    31.5989
+                ]
+            },
+            "properties": {
+                "GISID": "3653",
+                "type": "Settlement",
+                "hebrew": "מעלה עמוס",
+                "english": "Ma'ale Amos",
+                "arabic": "معاليه عاموس",
+                "established ": "1981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3952,
+                    32.1012
+                ]
+            },
+            "properties": {
+                "GISID": "3613",
+                "type": "Settlement",
+                "hebrew": "גיתית",
+                "english": "Gittit",
+                "arabic": "جيتيت",
+                "established ": "1973"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1738,
+                    32.4201
+                ]
+            },
+            "properties": {
+                "GISID": "3569",
+                "type": "Settlement",
+                "hebrew": "מבוא דותן",
+                "english": "Mevo Dotan",
+                "arabic": "مفو دوتان",
+                "established ": "1978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0306,
+                    31.5636
+                ]
+            },
+            "properties": {
+                "GISID": "3719",
+                "type": "Settlement",
+                "hebrew": "תלם",
+                "english": "Telem",
+                "arabic": "تيليم",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9031843,
+                    31.3629787
+                ]
+            },
+            "properties": {
+                "GISID": "15101",
+                "type": "Settlement",
+                "hebrew": "סנסנה",
+                "english": "Sansana",
+                "arabic": "سنسناه",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9791,
+                    31.4936
+                ]
+            },
+            "properties": {
+                "GISID": "3724",
+                "type": "Settlement",
+                "hebrew": "נגוהות",
+                "english": "Negohot",
+                "arabic": "نيجوهوت",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4232,
+                    31.9467
+                ]
+            },
+            "properties": {
+                "GISID": "3607",
+                "type": "Settlement",
+                "hebrew": "ייט\"ב",
+                "english": "Yitav",
+                "arabic": "ييتاف",
+                "established ": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3418,
+                    32.09
+                ]
+            },
+            "properties": {
+                "GISID": "3751",
+                "type": "Settlement",
+                "hebrew": "מגדלים",
+                "english": "Migdalim",
+                "arabic": "مجداليم",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4422,
+                    32.0438
+                ]
+            },
+            "properties": {
+                "GISID": "3615",
+                "type": "Settlement",
+                "hebrew": "פצאל",
+                "english": "Petza'el",
+                "arabic": "بتسائيل",
+                "established ": "1975"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4383,
+                    32.0187
+                ]
+            },
+            "properties": {
+                "GISID": "3558",
+                "type": "Settlement",
+                "hebrew": "תומר",
+                "english": "Tomer",
+                "arabic": "تومر",
+                "established ": "1978"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4313,
+                    31.826
+                ]
+            },
+            "properties": {
+                "GISID": "3639",
+                "type": "Settlement",
+                "hebrew": "ורד יריחו",
+                "english": "Vered Yeriho",
+                "arabic": "وردة اريحا",
+                "established ": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5257,
+                    32.2509
+                ]
+            },
+            "properties": {
+                "GISID": "3646",
+                "type": "Settlement",
+                "hebrew": "חמדת",
+                "english": "Hemdat",
+                "arabic": "حمدات",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1184,
+                    32.423
+                ]
+            },
+            "properties": {
+                "GISID": "3717",
+                "type": "Settlement",
+                "hebrew": "חרמש",
+                "english": "Hermesh",
+                "arabic": "حرميش",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1361,
+                    32.4688
+                ]
+            },
+            "properties": {
+                "GISID": "3568",
+                "type": "Settlement",
+                "hebrew": "ריחן",
+                "english": "Rehan",
+                "arabic": "رحان",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4604,
+                    31.7895
+                ]
+            },
+            "properties": {
+                "GISID": "3556",
+                "type": "Settlement",
+                "hebrew": "אלמוג",
+                "english": "Almog",
+                "arabic": "الموج",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5019,
+                    32.317
+                ]
+            },
+            "properties": {
+                "GISID": "3785",
+                "type": "Settlement",
+                "hebrew": "משכיות",
+                "english": "Maskiyyot",
+                "arabic": "مسكيوت",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4546,
+                    32.2425
+                ]
+            },
+            "properties": {
+                "GISID": "3612",
+                "type": "Settlement",
+                "hebrew": "בקעות",
+                "english": "Beka'ot",
+                "arabic": "بقاعوت",
+                "established ": "1972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4439,
+                    31.9885
+                ]
+            },
+            "properties": {
+                "GISID": "3555",
+                "type": "Settlement",
+                "hebrew": "נתיב הגדוד",
+                "english": "Netiv Hagedud",
+                "arabic": "نتيف هجدود",
+                "established ": "1976"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4,
+                    31.5688
+                ]
+            },
+            "properties": {
+                "GISID": "3610",
+                "type": "Settlement",
+                "hebrew": "מצפה שלם",
+                "english": "Mizpe Shalem",
+                "arabic": "مطل شالم",
+                "established ": "1971"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4466,
+                    31.9998
+                ]
+            },
+            "properties": {
+                "GISID": "3606",
+                "type": "Settlement",
+                "hebrew": "גלגל",
+                "english": "Gilgal",
+                "arabic": "جيلجال",
+                "established ": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.518,
+                    32.3361
+                ]
+            },
+            "properties": {
+                "GISID": "3782",
+                "type": "Settlement",
+                "hebrew": "רותם",
+                "english": "Rotem",
+                "arabic": "روتم",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4882,
+                    32.2471
+                ]
+            },
+            "properties": {
+                "GISID": "3619",
+                "type": "Settlement",
+                "hebrew": "רועי",
+                "english": "Ro'i",
+                "arabic": "روعي",
+                "established ": "1976"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4769,
+                    31.8078
+                ]
+            },
+            "properties": {
+                "GISID": "3645",
+                "type": "Settlement",
+                "hebrew": "בית הערבה",
+                "english": "Beit Ha'arava",
+                "arabic": "بين هعرافا",
+                "established ": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4728,
+                    32.0619
+                ]
+            },
+            "properties": {
+                "GISID": "3566",
+                "type": "Settlement",
+                "hebrew": "יפית",
+                "english": "Yafit",
+                "arabic": "يافيت",
+                "established ": "1980"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4916,
+                    32.1084
+                ]
+            },
+            "properties": {
+                "GISID": "3605",
+                "type": "Settlement",
+                "hebrew": "משואה",
+                "english": "Massu'a",
+                "arabic": "ماسواة",
+                "established ": "1970"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4228,
+                    32.1646
+                ]
+            },
+            "properties": {
+                "GISID": "3614",
+                "type": "Settlement",
+                "hebrew": "מכורה",
+                "english": "Mechora",
+                "arabic": "ميخورا",
+                "established ": "1973"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5221,
+                    32.172
+                ]
+            },
+            "properties": {
+                "GISID": "3598",
+                "type": "Settlement",
+                "hebrew": "ארגמן",
+                "english": "Argaman",
+                "arabic": "ارجمان",
+                "established ": "1968"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.436,
+                    31.6788
+                ]
+            },
+            "properties": {
+                "GISID": "3786",
+                "type": "Settlement",
+                "hebrew": "אבנת",
+                "english": "Avenat",
+                "arabic": "افينات",
+                "established ": "1983"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4366,
+                    32.1995
+                ]
+            },
+            "properties": {
+                "GISID": "3609",
+                "type": "Settlement",
+                "hebrew": "חמרה",
+                "english": "Hamra",
+                "arabic": "حمرة",
+                "established ": "1971"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4671,
+                    31.9063
+                ]
+            },
+            "properties": {
+                "GISID": "3713",
+                "type": "Settlement",
+                "hebrew": "נעמ\"ה",
+                "english": "Naama",
+                "arabic": "نعماة",
+                "established ": "1982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4552,
+                    31.9673
+                ]
+            },
+            "properties": {
+                "GISID": "3620",
+                "type": "Settlement",
+                "hebrew": "נירן",
+                "english": "Niran",
+                "arabic": "نيران",
+                "established ": "1977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1404245,
+                    31.4031697
+                ]
+            },
+            "properties": {
+                "GISID": "15093",
+                "type": "Settlement Outpost",
+                "hebrew": "אביגיל",
+                "english": "Avigayil",
+                "arabic": "ابيجيل",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.107159,
+                    31.5235498
+                ]
+            },
+            "properties": {
+                "GISID": "16007",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "אברהם אבינו",
+                "english": "Avraham Avinu",
+                "arabic": "سيدنا ابراهيم",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3416432,
+                    31.9576034
+                ]
+            },
+            "properties": {
+                "GISID": "15047",
+                "type": "Settlement Outpost",
+                "hebrew": "אהבת חיים",
+                "english": "Ahavat Chaim",
+                "arabic": "اهبات حييم (حب الحياة)",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2224988,
+                    32.172296
+                ]
+            },
+            "properties": {
+                "GISID": "15016",
+                "type": "Settlement Outpost",
+                "hebrew": "אחוזת שלהבת",
+                "english": "Ahuzat Shalhevet",
+                "arabic": "احوزات شلهبت",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3271432,
+                    32.0601978
+                ]
+            },
+            "properties": {
+                "GISID": "15039",
+                "type": "Settlement Outpost",
+                "hebrew": "אחיה",
+                "english": "Ahiya",
+                "arabic": "أحياة",
+                "established ": "1997"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2185778,
+                    31.6044203
+                ]
+            },
+            "properties": {
+                "GISID": "15086",
+                "type": "Settlement Outpost",
+                "hebrew": "איבי הנחל",
+                "english": "Ibei Hanahal",
+                "arabic": "ايبي هاناحل",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1195111,
+                    32.1625714
+                ]
+            },
+            "properties": {
+                "GISID": "15012",
+                "type": "Settlement Outpost",
+                "hebrew": "אלוני שילה",
+                "english": "Alonei Shilo",
+                "arabic": "الوني شيلو",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1378078,
+                    32.0107149
+                ]
+            },
+            "properties": {
+                "GISID": "15045",
+                "type": "Settlement Outpost",
+                "hebrew": "אלישע מכינה קד\"צ",
+                "english": "Elisha Preparatory",
+                "arabic": "اليشع مخينة كداتس",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0745606,
+                    32.1508335
+                ]
+            },
+            "properties": {
+                "GISID": "15014",
+                "type": "Settlement Outpost",
+                "hebrew": "אלמתן",
+                "english": "Elmatan",
+                "arabic": "المتان",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3352598,
+                    32.0649582
+                ]
+            },
+            "properties": {
+                "GISID": "15038",
+                "type": "Settlement Outpost",
+                "hebrew": "אש קודש",
+                "english": "Esh Kodesh",
+                "arabic": "آش كدوش",
+                "established ": "2000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2288614,
+                    31.9409112
+                ]
+            },
+            "properties": {
+                "GISID": "15053",
+                "type": "Settlement Outpost",
+                "hebrew": "בית אל מזרח",
+                "english": "Beit El East",
+                "arabic": "بيت ايل شرق",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1044460,
+                    31.5261533
+                ]
+            },
+            "properties": {
+                "GISID": "16002",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "בית הדסה",
+                "english": "Beit Hadassah",
+                "arabic": "بيت هداسا",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1036119,
+                    31.4068993
+                ]
+            },
+            "properties": {
+                "GISID": "15094",
+                "type": "Settlement Outpost",
+                "hebrew": "בית הכנסת העתיק סוסיא",
+                "english": "Ancient Susiya Synagogue",
+                "arabic": "الكنيس القديم سوسيا",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0991881,
+                    31.5251884
+                ]
+            },
+            "properties": {
+                "GISID": "16006",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "בית הקברות היהודי",
+                "english": "The Jewish Cemetary",
+                "arabic": "",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1057279,
+                    31.5251728
+                ]
+            },
+            "properties": {
+                "GISID": "16003",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "בית רומנו",
+                "english": "Beit Romano",
+                "arabic": "بيت رمانة",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3059391,
+                    31.8438711
+                ]
+            },
+            "properties": {
+                "GISID": "15068",
+                "type": "Settlement Outpost",
+                "hebrew": "בני אדם",
+                "english": "Bnei Adam",
+                "arabic": "بني أدم",
+                "established ": "2004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2547124,
+                    32.192152
+                ]
+            },
+            "properties": {
+                "GISID": "15010",
+                "type": "Settlement Outpost",
+                "hebrew": "ברכה א",
+                "english": "Bracha A",
+                "arabic": "بركة أ",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1078323,
+                    31.6530646
+                ]
+            },
+            "properties": {
+                "GISID": "15080",
+                "type": "Settlement Outpost",
+                "hebrew": "בת עין מזרח",
+                "english": "Bat Ayin East",
+                "arabic": "بات عاين شرق",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0904875,
+                    31.6631237
+                ]
+            },
+            "properties": {
+                "GISID": "15079",
+                "type": "Settlement Outpost",
+                "hebrew": "בת עין מערב",
+                "english": "Bat Ayin West",
+                "arabic": "بات عاين غرب",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2295233,
+                    31.9465393
+                ]
+            },
+            "properties": {
+                "GISID": "15052",
+                "type": "Settlement Outpost",
+                "hebrew": "ג'בל ע'רטיס",
+                "english": "Jabel Artis",
+                "arabic": "جبل غراطيس",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2404856,
+                    32.1577569
+                ]
+            },
+            "properties": {
+                "GISID": "15018",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעה 725",
+                "english": "Hill 725",
+                "arabic": "جبعاة (تل) 725",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3671079,
+                    32.1534139
+                ]
+            },
+            "properties": {
+                "GISID": "15025",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעה 777",
+                "english": "Hill 777",
+                "arabic": "جبعاة (تل) 777",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3305666,
+                    32.1598119
+                ]
+            },
+            "properties": {
+                "GISID": "15024",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעה 782",
+                "english": "Hill 782",
+                "arabic": "جبعاة (تل) 782",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3609685,
+                    32.1656577
+                ]
+            },
+            "properties": {
+                "GISID": "15022",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעה 836",
+                "english": "Hill 836",
+                "arabic": "جبعاة (تل) 836",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.336309,
+                    32.1658661
+                ]
+            },
+            "properties": {
+                "GISID": "15021",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעה 851",
+                "english": "Hill 851",
+                "arabic": "جبعاة (تل) 851",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.349618,
+                    32.1557669
+                ]
+            },
+            "properties": {
+                "GISID": "15023",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעות עולם",
+                "english": "Gva'ot Olam",
+                "arabic": "جبعوت (تل)عولم",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1202593,
+                    31.5426713
+                ]
+            },
+            "properties": {
+                "GISID": "15089",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת אביחי",
+                "english": "Giv'at Avichay",
+                "arabic": "جفعات ابيحاي",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2477559,
+                    31.9106022
+                ]
+            },
+            "properties": {
+                "GISID": "15060",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת אסף",
+                "english": "Givat Assaf",
+                "arabic": "جفعات اساف",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1713321,
+                    31.6815762
+                ]
+            },
+            "properties": {
+                "GISID": "15075",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת הדגן",
+                "english": "Giv'at Hadagan",
+                "arabic": "جفعات هداجان",
+                "established ": "1995"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1319859,
+                    31.654004
+                ]
+            },
+            "properties": {
+                "GISID": "15081",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת החי\"ש",
+                "english": "Giv'at Hahish",
+                "arabic": "جفعات هحايش",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2309,
+                    31.8024
+                ]
+            },
+            "properties": {
+                "GISID": "6505",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "גבעת המבתר",
+                "english": "Giv'at Hamivtar",
+                "arabic": "جفعات هميفتير",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2071,
+                    31.7386
+                ]
+            },
+            "properties": {
+                "GISID": "6860",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "גבעת המטוס",
+                "english": "Giv'at Hamatos",
+                "arabic": "جفعات همطوس",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2719617,
+                    32.0590438
+                ]
+            },
+            "properties": {
+                "GISID": "15036",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת הראל",
+                "english": "Giv'at Harel",
+                "arabic": "جفعات هرئيل",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1613179,
+                    31.6807217
+                ]
+            },
+            "properties": {
+                "GISID": "15076",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת התמר",
+                "english": "Giv'at Hatamar",
+                "arabic": "جفعات هتمار",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5095487,
+                    32.3632989
+                ]
+            },
+            "properties": {
+                "GISID": "15004",
+                "type": "Settlement Outpost",
+                "hebrew": "גבעת סלעית",
+                "english": "Givat Sal'it",
+                "arabic": "جفعات سلعيت",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1352118,
+                    31.6659718
+                ]
+            },
+            "properties": {
+                "GISID": "15077",
+                "type": "Settlement Outpost",
+                "hebrew": "דרך האבות",
+                "english": "Derech HaAvot",
+                "arabic": "ديرِخ هآفوت",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0846544,
+                    32.2869027
+                ]
+            },
+            "properties": {
+                "GISID": "15006",
+                "type": "Settlement Outpost",
+                "hebrew": "ההר",
+                "english": "Hahar",
+                "arabic": "ههار",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3699543,
+                    32.2133984
+                ]
+            },
+            "properties": {
+                "GISID": "15008",
+                "type": "Settlement Outpost",
+                "hebrew": "החווה של סקאלי",
+                "english": "Skali's Farm",
+                "arabic": "حافاة (مزرعة) سكالي",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.285855,
+                    32.0693939
+                ]
+            },
+            "properties": {
+                "GISID": "15034",
+                "type": "Settlement Outpost",
+                "hebrew": "היובל",
+                "english": "Hayovel",
+                "arabic": "هيوبال",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.314975,
+                    32.1678149
+                ]
+            },
+            "properties": {
+                "GISID": "15020",
+                "type": "Settlement Outpost",
+                "hebrew": "הנקודה",
+                "english": "Hanekuda",
+                "arabic": "هنكودة",
+                "established ": "1996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2794352,
+                    32.0694627
+                ]
+            },
+            "properties": {
+                "GISID": "15035",
+                "type": "Settlement Outpost",
+                "hebrew": "הקרון",
+                "english": "Hakaron",
+                "arabic": "هكيرن",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1521376,
+                    32.2286967
+                ]
+            },
+            "properties": {
+                "GISID": "15007",
+                "type": "Settlement Outpost",
+                "hebrew": "הר חמד",
+                "english": "Har Hemed",
+                "arabic": "هار حيميد",
+                "established ": "1996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2618231,
+                    32.0543056
+                ]
+            },
+            "properties": {
+                "GISID": "15037",
+                "type": "Settlement Outpost",
+                "hebrew": "הרואה",
+                "english": "Haro'eh",
+                "arabic": "هرواه",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1125106,
+                    31.5263558
+                ]
+            },
+            "properties": {
+                "GISID": "16005",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "התנחלות חדשה (פונתה)",
+                "english": "New Settlement",
+                "arabic": "",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1175467,
+                    31.9560471
+                ]
+            },
+            "properties": {
+                "GISID": "15057",
+                "type": "Settlement Outpost",
+                "hebrew": "זית רענן",
+                "english": "Zayit Ra'anan",
+                "arabic": "زيت رعنان",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1811932,
+                    32.1994738
+                ]
+            },
+            "properties": {
+                "GISID": "15009",
+                "type": "Settlement Outpost",
+                "hebrew": "חוות גלעד",
+                "english": "Gilad Farm",
+                "arabic": "حافات (مزرعة) جلعاد",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1042753,
+                    32.1435018
+                ]
+            },
+            "properties": {
+                "GISID": "15013",
+                "type": "Settlement Outpost",
+                "hebrew": "חוות יאיר",
+                "english": "Yair Farm",
+                "arabic": "حافات (مزرعة) يئير",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3378189,
+                    32.0460544
+                ]
+            },
+            "properties": {
+                "GISID": "15042",
+                "type": "Settlement Outpost",
+                "hebrew": "חוות יישוב הדעת",
+                "english": "Havat Yeshuv Hada'at",
+                "arabic": "حافاة (مزرعة) هداعت",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9681069,
+                    31.3705475
+                ]
+            },
+            "properties": {
+                "GISID": "15100",
+                "type": "Settlement Outpost",
+                "hebrew": "חוות מור",
+                "english": "Mor Farm",
+                "arabic": "حافات (مزرعة) مور",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1597795,
+                    31.4085299
+                ]
+            },
+            "properties": {
+                "GISID": "15092",
+                "type": "Settlement Outpost",
+                "hebrew": "חוות מעון",
+                "english": "Maon Farm",
+                "arabic": "حافات (مزرعة) معون",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4288493,
+                    31.9293117
+                ]
+            },
+            "properties": {
+                "GISID": "15058",
+                "type": "Settlement Outpost",
+                "hebrew": "חוות עומר",
+                "english": "Omer Farm",
+                "arabic": "حافات (مزرعة) عومير",
+                "established ": "2005"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1393982,
+                    31.944735
+                ]
+            },
+            "properties": {
+                "GISID": "15055",
+                "type": "Settlement Outpost",
+                "hebrew": "חורש ירון",
+                "english": "Horesh Yaron",
+                "arabic": "حورش يرون",
+                "established ": "1997"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1851359,
+                    31.8326893
+                ]
+            },
+            "properties": {
+                "GISID": "15069",
+                "type": "Settlement Outpost",
+                "hebrew": "חרותי",
+                "english": "Heruti",
+                "arabic": "حيروتي",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.14824,
+                    31.9442675
+                ]
+            },
+            "properties": {
+                "GISID": "15054",
+                "type": "Settlement Outpost",
+                "hebrew": "חרשה",
+                "english": "Haresha",
+                "arabic": "حورشه",
+                "established ": "1997"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1587523,
+                    32.4818614
+                ]
+            },
+            "properties": {
+                "GISID": "15002",
+                "type": "Settlement Outpost",
+                "hebrew": "טל מנשה",
+                "english": "Tal Menashe",
+                "arabic": "طل منشيه",
+                "established ": "1991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2514128,
+                    31.877015
+                ]
+            },
+            "properties": {
+                "GISID": "15064",
+                "type": "Settlement Outpost",
+                "hebrew": "כוכב יעקב מזרח",
+                "english": "Kochav Ya'akov East",
+                "arabic": "كوخاب يعقوب شرق",
+                "established ": "2003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2333063,
+                    31.8837202
+                ]
+            },
+            "properties": {
+                "GISID": "15063",
+                "type": "Settlement Outpost",
+                "hebrew": "כוכב יעקב מערב",
+                "english": "Kochav Ya'akov West",
+                "arabic": "كوخاب يعقوب غرب",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1288826,
+                    32.2904403
+                ]
+            },
+            "properties": {
+                "GISID": "15005",
+                "type": "Settlement Outpost",
+                "hebrew": "כרמי דורון",
+                "english": "Karmei Doron",
+                "arabic": "كرمي دورون",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2437749,
+                    32.1655762
+                ]
+            },
+            "properties": {
+                "GISID": "15017",
+                "type": "Settlement Outpost",
+                "hebrew": "להבת יצהר",
+                "english": "Lehavat Yitzhar",
+                "arabic": "لهابات يتسهار",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1259005,
+                    31.5226121
+                ]
+            },
+            "properties": {
+                "GISID": "15090",
+                "type": "Settlement Outpost",
+                "hebrew": "מאחז גל",
+                "english": "Gal Outpost",
+                "arabic": "مأحاز جال",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4160233,
+                    31.9074651
+                ]
+            },
+            "properties": {
+                "GISID": "15059",
+                "type": "Settlement Outpost",
+                "hebrew": "מבואות יריחו",
+                "english": "Mevo'ot Jericho",
+                "arabic": "مفوؤت يريحو",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0204281,
+                    32.1098432
+                ]
+            },
+            "properties": {
+                "GISID": "15028",
+                "type": "Settlement Outpost",
+                "hebrew": "מגן דן",
+                "english": "Magen Dan",
+                "arabic": "مجان دان",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2708147,
+                    31.8898374
+                ]
+            },
+            "properties": {
+                "GISID": "15062",
+                "type": "Settlement Outpost",
+                "hebrew": "מגרון",
+                "english": "Migron",
+                "arabic": "ميجرون",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.50666,
+                    31.8207417
+                ]
+            },
+            "properties": {
+                "GISID": "15073",
+                "type": "Settlement Outpost",
+                "hebrew": "מול נבו",
+                "english": "Mul Nevo",
+                "arabic": "مول نبوه",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3938644,
+                    32.0685664
+                ]
+            },
+            "properties": {
+                "GISID": "15044",
+                "type": "Settlement Outpost",
+                "hebrew": "מכינה מעלה אפרים",
+                "english": "Ma'ale Efrayim Preparatory",
+                "arabic": "مخينة معالية افرايم",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1733446,
+                    32.4226195
+                ]
+            },
+            "properties": {
+                "GISID": "15003",
+                "type": "Settlement Outpost",
+                "hebrew": "מעוז צבי",
+                "english": "Maoz Zvi",
+                "arabic": "معوز تسفي",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3377538,
+                    31.8509201
+                ]
+            },
+            "properties": {
+                "GISID": "15067",
+                "type": "Settlement Outpost",
+                "hebrew": "מעלה חגית",
+                "english": "Ma'ale Hagit",
+                "arabic": "معلاه حجيت",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1038054,
+                    32.1153748
+                ]
+            },
+            "properties": {
+                "GISID": "15026",
+                "type": "Settlement Outpost",
+                "hebrew": "מעלה ישראל",
+                "english": "Ma'ale Yisrael",
+                "arabic": "معلايه يسرائيل",
+                "established ": "1997"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2580705,
+                    31.6473369
+                ]
+            },
+            "properties": {
+                "GISID": "15083",
+                "type": "Settlement Outpost",
+                "hebrew": "מעלה רחבעם",
+                "english": "Ma'ale Rehav'am",
+                "arabic": "معاليه رحباعام",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3432671,
+                    31.9488765
+                ]
+            },
+            "properties": {
+                "GISID": "15048",
+                "type": "Settlement Outpost",
+                "hebrew": "מעלה שלמה",
+                "english": "Ma'ale Shlomo",
+                "arabic": "معاليه شلومو",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.110753,
+                    31.524623
+                ]
+            },
+            "properties": {
+                "GISID": "16001",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "מערת המכפלה \/ מסגד אברהם",
+                "english": "The Tomb of the Patriarchs \/ Ibrahimi Mosque",
+                "arabic": "",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0149479,
+                    31.3926822
+                ]
+            },
+            "properties": {
+                "GISID": "15099",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה אשתמוע",
+                "english": "Mitzpe Eshtamoa",
+                "arabic": "مسبيه (مطل) اشتموع",
+                "established ": "2003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3137057,
+                    31.8816986
+                ]
+            },
+            "properties": {
+                "GISID": "15065",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה דני",
+                "english": "Mitzpe Danny",
+                "arabic": "مسبيه (مطل) داني",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1343719,
+                    31.3829042
+                ]
+            },
+            "properties": {
+                "GISID": "15096",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה יאיר",
+                "english": "Mitzpe Yair",
+                "arabic": "متسباه يئير",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2484711,
+                    32.1564857
+                ]
+            },
+            "properties": {
+                "GISID": "15019",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה יצהר",
+                "english": "Mitzpe Yitzhar",
+                "arabic": "مسبيه يتسهار",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4028459,
+                    31.823247
+                ]
+            },
+            "properties": {
+                "GISID": "15072",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה יריחו צפון מזרח",
+                "english": "Mizpe Jericho North East",
+                "arabic": "مسبيه (مطل) اريحا شمال شرق",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3560763,
+                    31.9569532
+                ]
+            },
+            "properties": {
+                "GISID": "15046",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה כרמים",
+                "english": "Mitzpe Kramim",
+                "arabic": "مسبيه (مطل) كرميم",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9690933,
+                    31.496227
+                ]
+            },
+            "properties": {
+                "GISID": "15091",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה לכיש",
+                "english": "Mitzpe Lachish",
+                "arabic": "مسبيه (مطل) لكيش",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2298384,
+                    31.8954173
+                ]
+            },
+            "properties": {
+                "GISID": "15061",
+                "type": "Settlement Outpost",
+                "hebrew": "מצפה רועי",
+                "english": "Mitzpe Ro'i",
+                "arabic": "مسبيه (مطل) روعي",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0457271,
+                    31.8536423
+                ]
+            },
+            "properties": {
+                "GISID": "15070",
+                "type": "Settlement Outpost",
+                "hebrew": "מרום איילון",
+                "english": "Merom Ayalon",
+                "arabic": "مروم ايلون",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1080445,
+                    31.6606881
+                ]
+            },
+            "properties": {
+                "GISID": "15078",
+                "type": "Settlement Outpost",
+                "hebrew": "משואות יצחק הישנה",
+                "english": "Old Massu'ot Itzhak",
+                "arabic": "مشوؤت اسحاق القديمة",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2576709,
+                    31.9506311
+                ]
+            },
+            "properties": {
+                "GISID": "15051",
+                "type": "Settlement Outpost",
+                "hebrew": "משפטי ארץ",
+                "english": "Mishpatei Eretz",
+                "arabic": "مشباطبه أرتس",
+                "established ": "2004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3142815,
+                    31.8196252
+                ]
+            },
+            "properties": {
+                "GISID": "15071",
+                "type": "Settlement Outpost",
+                "hebrew": "נ.ג. 468",
+                "english": "Alt. 468",
+                "arabic": "أعلى نقطة 468",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3102623,
+                    31.8652577
+                ]
+            },
+            "properties": {
+                "GISID": "15066",
+                "type": "Settlement Outpost",
+                "hebrew": "נווה ארז",
+                "english": "Neve Erez",
+                "arabic": "نفي ايرز",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.146864,
+                    31.692713
+                ]
+            },
+            "properties": {
+                "GISID": "15074",
+                "type": "Settlement Outpost",
+                "hebrew": "נווה דניאל צפון",
+                "english": "Neve Daniel North",
+                "arabic": "نفي دنيأل الشمالية",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2775067,
+                    32.0752615
+                ]
+            },
+            "properties": {
+                "GISID": "15033",
+                "type": "Settlement Outpost",
+                "hebrew": "נוף הרים",
+                "english": "Nof Harim",
+                "arabic": "نوف هاريم",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1237489,
+                    31.3668038
+                ]
+            },
+            "properties": {
+                "GISID": "15097",
+                "type": "Settlement Outpost",
+                "hebrew": "נוף נשר",
+                "english": "Nof Nesher",
+                "arabic": "نوف نيشر",
+                "established ": "1996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2349757,
+                    32.0980778
+                ]
+            },
+            "properties": {
+                "GISID": "15030",
+                "type": "Settlement Outpost",
+                "hebrew": "נופי נחמיה",
+                "english": "Nofei Nehemia",
+                "arabic": "نوفي نحاميه",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1248935,
+                    31.9529007
+                ]
+            },
+            "properties": {
+                "GISID": "15056",
+                "type": "Settlement Outpost",
+                "hebrew": "נריה",
+                "english": "Nerya",
+                "arabic": "نريا",
+                "established ": "1991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1098334,
+                    31.3948318
+                ]
+            },
+            "properties": {
+                "GISID": "15095",
+                "type": "Settlement Outpost",
+                "hebrew": "סוסיא צפון מערב",
+                "english": "Susiya North West",
+                "arabic": "سوسيا شمال غرب",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2631066,
+                    32.1843554
+                ]
+            },
+            "properties": {
+                "GISID": "15015",
+                "type": "Settlement Outpost",
+                "hebrew": "סנה יעקב",
+                "english": "Sneh Yaakov",
+                "arabic": "شجيرة يعقوب",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3335927,
+                    32.0408428
+                ]
+            },
+            "properties": {
+                "GISID": "15043",
+                "type": "Settlement Outpost",
+                "hebrew": "עדי עד",
+                "english": "Adei Ad",
+                "arabic": "عدي عد",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2183,
+                    31.854
+                ]
+            },
+            "properties": {
+                "GISID": "4618",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "עטרות",
+                "english": "Atarot",
+                "arabic": "عطاروت",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2351,
+                    31.7737
+                ]
+            },
+            "properties": {
+                "GISID": "6875",
+                "type": "Settlement in East Jerusalem",
+                "hebrew": "עיר דוד",
+                "english": "City of David",
+                "arabic": "مدينة داوود (عير دافيد) ",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3440626,
+                    32.0667199
+                ]
+            },
+            "properties": {
+                "GISID": "15001",
+                "type": "Settlement Outpost",
+                "hebrew": "עלי עין",
+                "english": "Ale 'Ayin",
+                "arabic": "علي عين",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2665791,
+                    31.9570602
+                ]
+            },
+            "properties": {
+                "GISID": "15050",
+                "type": "Settlement Outpost",
+                "hebrew": "עמונה",
+                "english": "Amona",
+                "arabic": "عمونة",
+                "established ": "1997"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2618258,
+                    31.960206
+                ]
+            },
+            "properties": {
+                "GISID": "15049",
+                "type": "Settlement Outpost",
+                "hebrew": "עפרה צפון מזרח",
+                "english": "Ofra Zfon Mizrah",
+                "arabic": "عوفرة شمال شرق",
+                "established ": "2004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0432191,
+                    31.3729868
+                ]
+            },
+            "properties": {
+                "GISID": "15098",
+                "type": "Settlement Outpost",
+                "hebrew": "עשהאל",
+                "english": "Asa'el",
+                "arabic": "عسئيل",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2739454,
+                    32.0872527
+                ]
+            },
+            "properties": {
+                "GISID": "15032",
+                "type": "Settlement Outpost",
+                "hebrew": "פלגי מים",
+                "english": "Palgey Maim",
+                "arabic": "بلجي مايم (نهر)",
+                "established ": "1999"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1939884,
+                    31.5895176
+                ]
+            },
+            "properties": {
+                "GISID": "15088",
+                "type": "Settlement Outpost",
+                "hebrew": "פני קדם",
+                "english": "Pnei Kedem",
+                "arabic": "بنيه كيدم",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0954086,
+                    31.6057766
+                ]
+            },
+            "properties": {
+                "GISID": "15087",
+                "type": "Settlement Outpost",
+                "hebrew": "צור שלם",
+                "english": "Tzur Shalem",
+                "arabic": "صور شالم",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3398196,
+                    32.0496955
+                ]
+            },
+            "properties": {
+                "GISID": "15041",
+                "type": "Settlement Outpost",
+                "hebrew": "קידה",
+                "english": "Kida",
+                "arabic": "قيدة",
+                "established ": "2003"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1134271,
+                    32.1775057
+                ]
+            },
+            "properties": {
+                "GISID": "15011",
+                "type": "Settlement Outpost",
+                "hebrew": "רמת גלעד",
+                "english": "Ramat Gilad",
+                "arabic": "رمات جلعاد",
+                "established ": "2002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3110049,
+                    32.0554196
+                ]
+            },
+            "properties": {
+                "GISID": "15040",
+                "type": "Settlement Outpost",
+                "hebrew": "שבות רחל",
+                "english": "Shvut Rachel",
+                "arabic": "شبوت راحل",
+                "established ": "1991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2438828,
+                    31.6609951
+                ]
+            },
+            "properties": {
+                "GISID": "15082",
+                "type": "Settlement Outpost",
+                "hebrew": "שדה בר",
+                "english": "Sde Bar",
+                "arabic": "ساديه بار",
+                "established ": "1998"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1022986,
+                    31.5251921
+                ]
+            },
+            "properties": {
+                "GISID": "16004",
+                "type": "Settlement Enclave in Hebron",
+                "hebrew": "תל רומיידה",
+                "english": "Tel Rumeidah",
+                "arabic": "تل رميدة",
+                "established ": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2352045,
+                    32.1159706
+                ]
+            },
+            "properties": {
+                "GISID": "15029",
+                "type": "Settlement Outpost",
+                "hebrew": "תפוח מערב",
+                "english": "Tapuach Ma'arav",
+                "arabic": "تفاح غرب",
+                "established ": "2001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2314686,
+                    31.6428587
+                ]
+            },
+            "properties": {
+                "GISID": "15084",
+                "type": "Settlement Outpost",
+                "hebrew": "תקוע ב-ג",
+                "english": "Tko'a B-C",
+                "arabic": "تقوع ب-ج",
+                "established ": "2001"
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                35.110757,
+                31.5320145
+              ]
+            },
+            "properties": {
+              "GISID": "",
+              "type": "Settlement Enclave in Hebron",
+              "hebrew": "גבעת האבות",
+              "english": "Givat Ha'avot",
+              "arabic": "جيفعات هأفوت",
+              "established ": ""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2420076,
+                    31.635239
+                ]
+            },
+            "properties": {
+                "GISID": "15085",
+                "type": "Settlement Outpost",
+                "hebrew": "תקוע ד",
+                "english": "Tko'a D",
+                "arabic": "تقوع د",
+                "established ": "2002"
+            }
+        }
+    ]
+}

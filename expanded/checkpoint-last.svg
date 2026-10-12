@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="15px" viewBox="0 0 15 15" version="1.1">
+<title>checkpoint-last.svg</title>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 14.0625 7.5 C 14.0625 11.125 11.125 14.0625 7.5 14.0625 C 3.875 14.0625 0.9375 11.125 0.9375 7.5 C 0.9375 3.875 3.875 0.9375 7.5 0.9375 C 11.125 0.9375 14.0625 3.875 14.0625 7.5 Z M 14.0625 7.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.117647%,40%,69.411765%);fill-opacity:1;" d="M 7.5 1.875 C 10.605469 1.875 13.125 4.394531 13.125 7.5 C 13.125 10.605469 10.605469 13.125 7.5 13.125 C 4.394531 13.125 1.875 10.605469 1.875 7.5 C 1.875 4.394531 4.394531 1.875 7.5 1.875 M 7.5 0 C 3.359375 0 0 3.359375 0 7.5 C 0 11.640625 3.359375 15 7.5 15 C 11.640625 15 15 11.640625 15 7.5 C 15 3.359375 11.640625 0 7.5 0 Z M 7.5 0 "/>
+<path style="fill:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(14.117647%,40%,69.411765%);stroke-opacity:1;stroke-miterlimit:10;" d="M 9.366667 54.633333 L 54.633333 9.366667 " transform="matrix(0.234375,0,0,0.234375,0,0)"/>
+<path style="fill:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(14.117647%,40%,69.411765%);stroke-opacity:1;stroke-miterlimit:10;" d="M 9.366667 9.366667 L 54.633333 54.633333 " transform="matrix(0.234375,0,0,0.234375,0,0)"/>
+</g>
+</svg>

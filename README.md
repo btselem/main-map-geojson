@@ -15,7 +15,8 @@ commit the updated submodule pointer in the site repo and run **Generate GeoJSON
 `static.pmtiles` holds the same layers as vector tiles in one file, so a map
 loads only the tiles it shows (about 1.4 MB for the whole West Bank) instead
 of 27 MB of GeoJSON. The site reads it from GitHub Pages:
-`https://btselem.github.io/main-map-geojson/static.pmtiles` (range requests,
+`https://projects.btselem.org/main-map-geojson/static.pmtiles` (the
+organisation's Pages domain; range requests,
 CORS open). The GeoJSON files stay: they are the source, and the Hebron map
 still loads `hebron-oldcity-roads.geojson` and `unleashed.geojson`.
 

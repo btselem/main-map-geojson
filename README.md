@@ -28,3 +28,19 @@ commit both:
 The layer list in `build/build-pmtiles.sh` follows the site's map style
 (`btselem_maps/assets/style/btselem.json`): one layer per GeoJSON source, named
 after the source id.
+
+## Base map (basemap.pmtiles) and fonts
+
+`basemap.pmtiles` is the map under everything: land cover, roads and their
+names, water and waterways, for our area only (33.8–36.4°E, 29.3–33.6°N),
+built from OpenStreetMap in the OpenMapTiles schema (it replaced Stadia
+Maps' tiles). `fonts/` holds the map's text glyphs (Noto Sans, see
+fonts/README.md). Both are served by GitHub Pages beside static.pmtiles.
+
+Rebuild it when newer roads are wanted (needs Docker only; downloads about
+500 MB of OpenStreetMap extracts into ~/projects/basemap-work), then commit:
+
+    build/build-basemap.sh
+
+Maps using it must credit "© OpenMapTiles © OpenStreetMap contributors"; the
+site's style does.
